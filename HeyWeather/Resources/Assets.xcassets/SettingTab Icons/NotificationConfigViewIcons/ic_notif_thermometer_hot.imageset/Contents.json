@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ThermometerHot.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

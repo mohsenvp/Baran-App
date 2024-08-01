@@ -1,0 +1,554 @@
+{
+  "identifier" : "239C3D3E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "59.99",
+      "familyShareable" : false,
+      "internalID" : "1532055540",
+      "localizations" : [
+        {
+          "description" : "Un solo pago, todas las funciones.",
+          "displayName" : "Desbloqueo de por vida",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "Un seul paiement, toutes les fonctionnalités.",
+          "displayName" : "Déverrouillage à vie",
+          "locale" : "fr"
+        },
+        {
+          "description" : "Одна оплата, все возможности.",
+          "displayName" : "Разблокировка навсегда",
+          "locale" : "ru"
+        },
+        {
+          "description" : "一度支払えば、ライフタイムすべての機能を楽しめます。",
+          "displayName" : "ライフタイムのロック解除",
+          "locale" : "ja"
+        },
+        {
+          "description" : "Πληρώστε μία φορά, απολαύστε όλα για πάντα",
+          "displayName" : "Ξεκλείδωμα για ολόκληρη τη ζωή",
+          "locale" : "el"
+        },
+        {
+          "description" : "ชําระครั้งเดียว และสนุกตลอดชีพ",
+          "displayName" : "ปลดล็อคตลอดชีพ",
+          "locale" : "th"
+        },
+        {
+          "description" : "한 번 결제하고 평생 모든 기능을 즐기세요",
+          "displayName" : "평생 해제",
+          "locale" : "ko"
+        },
+        {
+          "description" : "Eén betaling, alle functies.",
+          "displayName" : "Levenslange ontgrendeling",
+          "locale" : "nl"
+        },
+        {
+          "description" : "一次付費，終身享受所有功能。",
+          "displayName" : "終身解鎖",
+          "locale" : "zh_CN"
+        },
+        {
+          "description" : "Tek ödeme, tüm özellikler.",
+          "displayName" : "Ömür Boyu Kilidi Açma",
+          "locale" : "tr"
+        },
+        {
+          "description" : "Un seul paiement, toutes les fonctionnalités.",
+          "displayName" : "Déverrouillage à vie",
+          "locale" : "ar"
+        },
+        {
+          "description" : "שלם פעם אחת ותהנה מכל התכונות לכל החיים",
+          "displayName" : "שחרור לכל החיים",
+          "locale" : "he"
+        },
+        {
+          "description" : "Pay once and enjoy all features for lifetime.",
+          "displayName" : "Lifetime Unlock",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Um único pagamento, todas as funcionalidades.",
+          "displayName" : "Desbloqueio vitalício",
+          "locale" : "ca"
+        },
+        {
+          "description" : "एक बार भुगतान करें, सुविधाओं का आनंद सदा लें।",
+          "displayName" : "जीवन भर का अनलॉक",
+          "locale" : "hi"
+        },
+        {
+          "description" : "Un unico pagamento, tutte le funzionalità.",
+          "displayName" : "Sblocco a vita",
+          "locale" : "it"
+        },
+        {
+          "description" : "Einmal zahlen, alle Funktionen.",
+          "displayName" : "Lebenslange Freischaltung",
+          "locale" : "de"
+        }
+      ],
+      "productID" : "Lifetime_Premium_HeyWeather",
+      "referenceName" : "Lifetime Unlock",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "31.99",
+      "familyShareable" : false,
+      "internalID" : "1583560506",
+      "localizations" : [
+        {
+          "description" : "Pay once and enjoy all features for lifetime.",
+          "displayName" : "Lifetime Unlock",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Lifetime_Premium_HeyWeather_30",
+      "referenceName" : "Lifetime Unlock 30% off",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "1583560405",
+      "localizations" : [
+        {
+          "description" : "Pay once and enjoy all features for lifetime.",
+          "displayName" : "Lifetime Unlock",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Lifetime_Premium_HeyWeather_50",
+      "referenceName" : "Lifetime Unlock 50% off",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1532052012",
+    "_developerTeamID" : "6F64QLA4FZ",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 716703606.92728806,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : {
+          "index" : 2,
+          "type" : "generic"
+        },
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : {
+          "index" : 1,
+          "type" : "purchase"
+        },
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "20684818",
+      "localizations" : [
+
+      ],
+      "name" : "Premium Group",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1532053069",
+          "introductoryOffer" : {
+            "internalID" : "56EB2591",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "Tüm Özelliklerin Kilidini Aç",
+              "displayName" : "1 Aylık Abonelik",
+              "locale" : "tr"
+            },
+            {
+              "description" : "Sblocca tutte le funzionalità",
+              "displayName" : "Abbonamento di 1 mese",
+              "locale" : "it"
+            },
+            {
+              "description" : "解锁所有功能",
+              "displayName" : "一个月的订阅",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "모든 기능 잠금 해제",
+              "displayName" : "1개월 구독",
+              "locale" : "ko"
+            },
+            {
+              "description" : "すべての機能のロックを解除",
+              "displayName" : "1ヶ月の購読",
+              "locale" : "ja"
+            },
+            {
+              "description" : "Разблокировать все функции",
+              "displayName" : "Подписка на 1 месяц",
+              "locale" : "ru"
+            },
+            {
+              "description" : "Alle functies ontgrendelen",
+              "displayName" : "1 maand abonnement",
+              "locale" : "nl"
+            },
+            {
+              "description" : "Alle Funktionen freischalten",
+              "displayName" : "1 Monat Abo",
+              "locale" : "de"
+            },
+            {
+              "description" : "Desbloquear todas las características",
+              "displayName" : "Suscripción de 1 mes",
+              "locale" : "es_ES"
+            },
+            {
+              "description" : "ปลดล็อคคุณสมบัติ",
+              "displayName" : "ทดลองใช้และแผนรายเดือนพรีเมียม",
+              "locale" : "th"
+            },
+            {
+              "description" : "Desbloquear todos os recursos",
+              "displayName" : "Assinatura de 1 mês",
+              "locale" : "pt_BR"
+            },
+            {
+              "description" : "Unlock All Features",
+              "displayName" : "Trial & Premium Monthly Plan",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "Déverrouiller toutes les fonctionnalités",
+              "displayName" : "Abonnement d'un mois",
+              "locale" : "fr"
+            },
+            {
+              "description" : "सभी विशेषताओं को अनलॉक करें",
+              "displayName" : "1 महीने का सदस्यता",
+              "locale" : "hi"
+            },
+            {
+              "description" : "שחרור תכונות",
+              "displayName" : "ניסיון ותוכנית חודשית פרמיום",
+              "locale" : "he"
+            },
+            {
+              "description" : "解鎖所有功能",
+              "displayName" : "試用與每月優質計畫",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "Ξεκλείδωμα λειτουργιών.",
+              "displayName" : "Δοκιμή & μηνιαίο πριμ.",
+              "locale" : "el"
+            }
+          ],
+          "productID" : "1M_Premium_HeyWeather",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "1 Month Subscription",
+          "subscriptionGroupID" : "20684818",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "1532054209",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "解鎖所有功能",
+              "displayName" : "年度優質計畫",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "모든 기능 잠금 해제",
+              "displayName" : " 1년 구독",
+              "locale" : "ko"
+            },
+            {
+              "description" : "Ξεκλείδωμα λειτουργιών.",
+              "displayName" : "Ετήσιο πριμ.",
+              "locale" : "el"
+            },
+            {
+              "description" : "Desbloquear todas las características",
+              "displayName" : "Suscripción de 1 año",
+              "locale" : "es_ES"
+            },
+            {
+              "description" : "Alle Funktionen freischalten",
+              "displayName" : "1 Jahr Abo",
+              "locale" : "de"
+            },
+            {
+              "description" : "सभी विशेषताओं को अनलॉक करें",
+              "displayName" : "1 वर्ष की सदस्यता",
+              "locale" : "hi"
+            },
+            {
+              "description" : "Alle functies ontgrendelen",
+              "displayName" : "1 jaar abonnement",
+              "locale" : "nl"
+            },
+            {
+              "description" : "すべての機能のロックを解除",
+              "displayName" : "1年の購読",
+              "locale" : "ja"
+            },
+            {
+              "description" : "Tüm Özelliklerin Kilidini Aç",
+              "displayName" : "1 Yıllık Abonelik",
+              "locale" : "tr"
+            },
+            {
+              "description" : "שחרור תכונות",
+              "displayName" : "תוכנית שנתית פרמיום",
+              "locale" : "he"
+            },
+            {
+              "description" : "Unlock All Features",
+              "displayName" : "Premium Yearly Plan",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "解锁所有功能",
+              "displayName" : "一年的订阅",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "Sblocca tutte le funzionalità",
+              "displayName" : "Abbonamento di 1 anno",
+              "locale" : "it"
+            },
+            {
+              "description" : "Desbloquear todos os recursos",
+              "displayName" : "Assinatura de 1 ano",
+              "locale" : "pt_BR"
+            },
+            {
+              "description" : "Déverrouiller toutes les fonctionnalités",
+              "displayName" : "Abonnement d'un an",
+              "locale" : "fr"
+            },
+            {
+              "description" : "Разблокировать все функции",
+              "displayName" : "Подписка на 1 год",
+              "locale" : "ru"
+            },
+            {
+              "description" : "ปลดล็อคคุณสมบัติ",
+              "displayName" : "แผนรายปีพรีเมียม",
+              "locale" : "th"
+            }
+          ],
+          "productID" : "1Y_Premium_HeyWeather",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "1 Year Subscription",
+          "subscriptionGroupID" : "20684818",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "39.99",
+          "familyShareable" : true,
+          "groupNumber" : 4,
+          "internalID" : "6449153022",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "שחרור לכולם",
+              "displayName" : "שנתי משפחתי",
+              "locale" : "he"
+            },
+            {
+              "description" : "為家庭解鎖所有功能",
+              "displayName" : "年度家庭優質計畫",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "Desbloquear todos os recursos",
+              "displayName" : "Assinatura familiar de 1 ano",
+              "locale" : "pt_BR"
+            },
+            {
+              "description" : "Déverrouiller toutes les fonctionnalités",
+              "displayName" : "bonnement familial d'un an",
+              "locale" : "fr"
+            },
+            {
+              "description" : "ปลดล็อคทุกคน",
+              "displayName" : "รายปีครอบครัว",
+              "locale" : "th"
+            },
+            {
+              "description" : "Разблокировать все функции",
+              "displayName" : "Годовая подписка для семьи",
+              "locale" : "ru"
+            },
+            {
+              "description" : "Tüm Özelliklerin Kilidini Aç",
+              "displayName" : "1 Yıllık Aile Aboneliği",
+              "locale" : "tr"
+            },
+            {
+              "description" : "解锁所有功能",
+              "displayName" : "一年的家庭订阅",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "모든 기능 잠금 해제",
+              "displayName" : "1년 가족 구독",
+              "locale" : "ko"
+            },
+            {
+              "description" : "Alle Funktionen freischalten",
+              "displayName" : "1 Jahr Familien-Abo",
+              "locale" : "de"
+            },
+            {
+              "description" : "すべての機能のロックを解除",
+              "displayName" : "1年の家族向け購読",
+              "locale" : "ja"
+            },
+            {
+              "description" : "Ξεκλείδωμα για όλους.",
+              "displayName" : "Ετήσιο οικογενειακό.",
+              "locale" : "el"
+            },
+            {
+              "description" : "सभी विशेषताओं को अनलॉक करें",
+              "displayName" : "1 वर्ष की परिवार सदस्यता",
+              "locale" : "hi"
+            },
+            {
+              "description" : "Unlock All Features For Family",
+              "displayName" : "Premium Family Yearly Plan",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "Alle functies ontgrendelen",
+              "displayName" : "1 jaar abonnement - Familie",
+              "locale" : "nl"
+            },
+            {
+              "description" : "Desbloquear todas las características",
+              "displayName" : "Suscripción familiar de 1 año",
+              "locale" : "es_MX"
+            },
+            {
+              "description" : "Sblocca tutte le funzionalità",
+              "displayName" : "Abbonamento annuale - Famiglia",
+              "locale" : "it"
+            }
+          ],
+          "productID" : "1Y_Premium_HeyWeather_Family",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "1 Year Subscription- Family",
+          "subscriptionGroupID" : "20684818",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "1532053734",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "3 Months subscription to unlock all features",
+              "displayName" : "3 Months Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "3M_Premium_HeyWeather",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "3 Months Subscription",
+          "subscriptionGroupID" : "20684818",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

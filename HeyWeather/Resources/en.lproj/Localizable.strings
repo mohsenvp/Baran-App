@@ -1,0 +1,1316 @@
+
+
+"April" = "April";
+
+
+"August" = "August";
+
+/* MARK: - Page 1 */
+"Back" = "Back";
+
+
+"December" = "December";
+
+
+"February" = "February";
+
+/* MARK: - Months */
+"January" = "January";
+
+
+"July" = "July";
+
+
+"June" = "June";
+
+
+"March" = "March";
+
+
+"May" = "May";
+
+
+"November" = "November";
+
+
+"October" = "October";
+
+
+"September" = "September";
+
+/* MARK: - Extra Detail About Texts */
+"about" = "About";
+
+
+"about.us" = "About us";
+
+
+"active" = "Active";
+
+
+"add.city" = "Add City";
+
+
+"air.quality" = "Air Quality";
+
+
+"air.quality.index" = "Air Qua lity Index";
+
+
+"allow.permission" = "Allow Permission";
+
+
+"amount" = "Amount";
+
+/* 16-6 */
+"app.icon" = "App Icon";
+
+/* MARK: - Other Strings */
+"app.name" = "HeyWeather";
+
+
+"app.units" = "Application Units";
+
+
+"appearance" = "Appearance";
+
+
+"aqi" = "AQI";
+
+
+"aqi.about" = "An air quality index (AQI) is used by government agencies to communicate to the public how polluted the air currently is or how polluted it is forecast to become. Public health risks increase as the AQI rises. Different countries have their own air quality indices, corresponding to different national air quality standards. Some of these are the Air Quality Health Index (Canada), the Air Pollution Index (Malaysia), and the Pollutant Standards Index (Singapore).\n\nRisk:\nLow (1–3)\nModerate (4–6)\nHigh (7–10)\nVery high (above 10)\n";
+
+
+"aqi.accessibility" = "air quality is";
+
+/* 9-3 */
+"aqi.cautionary.statement" = "Cautionary Statement";
+
+/* MARK: - Page 9 */
+"aqi.full.title" = "Air Quality Index (AQI)";
+
+
+"aqi.health.implications" = "Health Implications";
+
+
+"aqi.is" = "Air Quality is";
+
+
+"aqi.premium" = "Get Air Quality Forecasts with Premium!";
+
+
+"at" = "At";
+
+
+"at.2" = "at";
+
+
+"at.max" = "at max";
+
+
+"at.min" = "at min";
+
+
+"atmosphere" = "Atmosphere";
+
+
+"auto" = "Auto";
+
+
+"auto.update" = "Auto Update";
+
+
+"auto.updating.location" = "Auto-Updating Location";
+
+
+"average" = "Average";
+
+/*  */
+"back" = "back";
+
+
+"background" = "Background";
+
+
+
+"bug.report" = "Bug Report";
+
+/* MARK: - Page 14 */
+"cancel" = "Cancel";
+
+/* MARK: - Accessibility Strings */
+"chance" = "Chance";
+
+
+"chance.of.rain" = "Chance of rain";
+
+/* MARK: - Page 23 */
+"change.city" = "Change City";
+
+
+"change.language" = "You can set your desired language in two steps:";
+
+
+"change.plan" = "Change Plan";
+
+
+"change.plan.subtitle" = "You can still upgrade or change your plan";
+
+
+"change.selected.image" = "Change Selected Image";
+
+/* MARK: - Page 17 */
+"choose.contact.form" = "Please choose the proper contact form.";
+
+
+"choose.language" = "Choose Your Language";
+
+
+"choose.language.en" = "Choose Your Language";
+
+
+
+"choose.plan" = "Choose a Plan";
+
+
+"choose.plan.subtitle" = "In order to subscribe ";
+
+
+"cities" = "Cities";
+
+
+"city" = "City";
+
+
+"city.is.locked" = "This city is locked";
+
+/* MARK: - Page 13 */
+"city.limit" = "City Limit";
+
+
+"city.list" = "City List";
+
+
+"claim.offer" = "Claim This Offer";
+
+
+"clear" = "Clear";
+
+
+"click.to.subscribe" = "Tap to Subscribe now!";
+
+
+"close" = "Close";
+
+
+"clouds" = "Clouds";
+
+
+"contact.us" = "Contact us";
+
+/* MARK: - Page 6 */
+"current" = "Current";
+
+
+"current.condition" = "current weather condition";
+
+/* 5-1 */
+"current.location" = "Current Location";
+
+
+"current.temperature" = "current temperature";
+
+
+"customizable.widgets" = "Customizable Widgets";
+
+
+"customizable.widgets.detail" = "Customizable widgets: Personalize every aspect as desired in the app.";
+
+
+"customize" = "Customize";
+
+
+"customize.help" = "In order to apply this theme\nyou should long press on the widget\nand from Widget Style section\nselect the style that you have created";
+
+
+"customize.help.one" = "Long press on the widget that you want to\napply the theme on and select Edit Widget";
+
+
+"customize.help.two" = "Next select Widget Style\nfrom Customizable Widgets";
+
+
+"customize.large.widget" = "Customize Large Widget";
+
+
+"customize.medium.widget" = "Customize Medium Widget";
+
+
+"customize.small.widget" = "Customize Small Widget";
+
+
+"customize.widget" = "Customize widget";
+
+
+"daily" = "Daily";
+
+
+"daily.forecast" = "DAILY FORECAST";
+
+
+"daily.forecast.promo" = "Get up to 15 days forecast";
+
+/* MARK: - Page 19 */
+"dark" = "Dark";
+
+
+"datasource.locked" = "datasource is locked, subscribe to premium to select";
+
+
+"day" = "day";
+
+
+/* 20-21 */
+"days" = "days";
+
+
+"detailed.style" = "Detailed Style";
+
+
+"details" = "Details";
+
+
+"dew.about" = "Dew point is the temperature at which moisture in the air begins to condense into droplets. It's a useful measure for predicting when dew or fog will form, as well as for understanding the potential for mold growth in indoor spaces.";
+
+
+"dew.point" = "Dew Point";
+
+
+"dismiss" = "Dismiss";
+
+
+"distance" = "Distance";
+
+
+"done" = "Done";
+
+
+"double.tap.to.open" = "Double tap to open";
+
+
+"double.tap.to.reload.page" = "Double tap to reload page";
+
+
+"double.tap.to.remove.city" = "Double tap to remove city";
+
+
+"double.tap.to.select" = "Double tap to select";
+
+
+"double.tap.to.select.city" = "Double tap to select city";
+
+
+"double.tap.to.subscribe" = "Double tap to explore and subscribe HeyWeather premium plans";
+
+
+"drizzle" = "Drizzle";
+
+/* MARK: - Page 37 */
+"edit" = "Edit";
+
+
+"edit.home.screen" = "Edit Home Screen";
+
+
+"edit.widget" = "Edit Widget";
+
+
+"expire.at" = "Expire at";
+
+/* 8 */
+"failed.mail" = "Failed to send mail";
+
+
+"failed.mail.descript" = "Seems like you didn't set your mail in your device.";
+
+
+"family.premium" = "Family Premium";
+
+
+"family.premium.subtitle" = "Subscribe and share with family!";
+
+
+"feature.request" = "Feature Request";
+
+
+"feels.like" = "Feels like";
+
+
+"for" = "for";
+
+
+"forecast.help.one" = "Long press on the widget that you want to\napply the theme on and select Edit Widget";
+
+
+"forecast.help.two" = "Next apply the settings as shown\nin the above view";
+
+/* Lifetime for $2.99 (20-14) */
+"forecast.offer.premium" = "Get 168-hour forecast with Premium!";
+
+
+"forecast.sources" = "Forecast Sources";
+
+
+"weather.source.section.header" = "Weather Sources";
+
+
+"aqi.source.section.header" = "AQI Sources";
+
+
+"forecast.type" = "Forecast Type";
+
+
+"forecast.widgets" = "Forecast Widgets";
+
+
+"forecast.widgets.detail" = "Forecast Widgets offering hourly and daily forecast, customizable by long-pressing the widget (PREMIUM)";
+
+
+"forecast.widgets.subtitle" = "Here are some suggestions\ntap on the style you like to see the tutorial";
+
+
+"forecasts_are" = "Forecasts are";
+
+
+"free" = "FREE!";
+
+/* 20-10.3 */
+"free.trial" = "free trial";
+
+
+"fri" = "FRI";
+
+
+"friday" = "Friday";
+
+
+"from.last.new.moon" = "From Last New Moon";
+
+/* 9-5 */
+"future.forecast" = "AQI Forecast";
+
+
+"general" = "General";
+
+/* MARK: - Page 11 */
+
+"go.premium" = "GO PREMIUM!";
+
+
+"go.premium.to.use.widget" = "Go Premium to use this widget!";
+
+
+"go.to.languages" = "Go to Languages";
+
+
+"halloween" = "Halloween";
+
+
+"halloween.detail" = "Get your home screen a look for halloween!";
+
+
+"help.translate" = "Help HeyWeather Translation";
+
+
+"heyweather.premium" = "HeyWeather Premium";
+
+
+"hourly" = "Hourly";
+
+
+"hourly.forecast" = "HOURLY FORECAST";
+
+
+"humidity" = "Humidity";
+
+
+"humidity.about" = "Humidity is the amount of moisture in the air, and it can have a big impact on how comfortable we feel. High humidity can make us feel sticky and uncomfortable, while low humidity can dry out our skin and respiratory system. Relative humidity is the amount of moisture in the air compared to the maximum amount that the air could hold at a given temperature. This is why humid days often feel more oppressive when the temperature is high.";
+
+
+"hybrid" = "Hybrid";
+
+
+"icon.pack" = "Icon Pack";
+
+/* MARK: - Page 10 */
+"illumination" = "Illumination";
+
+
+"internal.server.error" = "Internal Server Error";
+
+
+"invisible.sky" = "Invisible in The Sky";
+
+
+"kiss.design" = "KISS design";
+
+
+"kiss.design.detail" = "Keep it simple, stupid! An elegant and simple as possible design!";
+
+
+"language" = "Language";
+
+
+"last.update" = "Last Update";
+
+
+"lifetime" = "Lifetime Premium";
+
+
+"lifetime.eight" = "on the first class";
+
+
+"lifetime.five" = "this world";
+
+
+"lifetime.four" = "can get in";
+
+
+"lifetime.nine" = "seat of";
+
+
+"lifetime.one" = "You are the";
+
+
+"lifetime.premium.member" = "You are Lifetime premium member";
+
+
+"lifetime.seven" = "be welcomed";
+
+
+"lifetime.six" = "You will always";
+
+
+"lifetime.subtitle" = "One payment, lifetime access";
+
+
+"lifetime.ten" = "HeyWeather";
+
+
+"lifetime.three" = "that an app";
+
+
+"lifetime.title" = "Hello Master";
+
+
+"lifetime.two" = "ultimate user";
+
+
+"light" = "Light";
+
+/* MARK: - Page 29 */
+"limited.time.offer" = "Limited-time offer";
+
+
+"ln.note" = "Note: If no language setting is available, go to your general iPhone language settings to first set a preferred language.";
+
+/* MARK: - Page 26 */
+"loading" = "Loading...";
+
+/* MARK: - Page 4 */
+"location.access" = "You can either allow HeyWeather to access your location to update your city or choose your city manually";
+
+/* MARK: - Page 34 */
+"manage.style.app" = "You can manage widgets style from app";
+
+
+"map_layer" = "Map Layer";
+
+
+"map_settings" = "Map Settings";
+
+
+"maps" = "Maps";
+
+
+"medium.style" = "Medium Style";
+
+
+"min" = "min";
+
+
+"mini.style" = "Mini Style";
+
+
+"mins" = "Mins";
+
+
+"mon" = "MON";
+
+/* MARK: - Page 8 */
+"monday" = "Monday";
+
+
+"month" = "Month";
+
+/* 20-11 */
+"months" = "Months";
+
+/* MARK: New Strings (Must add for other languages) */
+"moon" = "Moon";
+
+
+"moon.age" = "Moon Age";
+
+
+"moon.distance" = "Moon Distance";
+
+
+"moon.phase" = "Moon Phase";
+
+
+"moon.rises" = "the moon rises at";
+
+
+"moon.sets" = "the moon sets at";
+
+
+"moon.state.accessibility" = "moon state is";
+
+
+"moonrise" = "Moonrise";
+
+
+"moonset" = "Moonset";
+
+
+"more.note" = "Note: More Languages coming soon!";
+
+
+"navy.blue" = "Navy Blue";
+
+
+"navy.blue.detail" = "A navy blue design to make your home page more modernISH!";
+
+
+"need.allow.permission" = "You need to allow permission in settings to detect your city automatically, Are you willing to go there now?";
+
+
+"neumorphism" = "Neumorphism";
+
+
+"neumorphism.detail" = "Beautiful 3D icons design inspired by Apple’s macOS Big Sur";
+
+
+"never" = "Never";
+
+
+"next" = "Next";
+
+
+"next.ten.days" = "Next 10 days";
+
+
+"next.ten.hours" = "Next 10 hours";
+
+
+"no.internet.connection" = "No Internet Connection";
+
+
+"not.now" = "Not now";
+
+
+"nothing" = "Nothing";
+
+
+"nothing.restore" = "Nothing to Restore";
+
+
+"nothing.restore.text" = "We did not find any purchase record from you, If you already purchased any of these plans, please contact us.";
+
+
+"now" = "Now";
+"now.abbr" = "Now";
+
+
+"oclock" = "o'clock";
+
+
+"ok" = "OK";
+
+
+"on" = "on";
+
+
+"open.heyweather" = "Open HeyWeather";
+
+
+"or" = "or";
+
+
+"or.select.image" = "Or Select An Image";
+
+
+"other.large.widgets" = "Other Large Widgets";
+
+
+"other.medium.widgets" = "Other Medium Widgets";
+
+/* 5 */
+"other.plans" = "Other Plans";
+
+/* MARK: - Page 35 */
+"other.small.widgets" = "Other Small Widgets";
+
+
+"other.widgets" = "Other Widgets";
+
+
+"other.widgets.detail" = "Widgets containing weather forecast combined with other useful information like moon phase and AQI are listed here.";
+
+
+"parallactic.angle" = "Parallactic Angle";
+
+/* three days free trial (20-12) */
+"pay.once.lifetime" = "One payment, lifetime access";
+
+/* MARK: - Page 36 */
+"per" = "per";
+
+/* MARK: - Page 28 */
+"permission.required" = "Permission Required";
+
+
+"precipitation" = "Precipitation";
+
+
+"precipitation.chart.label" = "precipitations for the next 60 minutes is %lld";
+
+
+
+"premium" = "Premium";
+
+
+"premium.only" = "Premium Users Only";
+
+
+
+/* MARK: - Page 20 */
+"premium.plan" = "Premium Plan";
+
+
+"premium.reached.maximum.cities" = "You can add only one city in a free plan, to add more cities & enjoy the full-featured app please subscribe to a plan.";
+
+
+"premium.to.unlock" = "Go Premium To Unlock";
+
+
+"premium.widgets" = "Premium Widgets";
+
+
+"pressure" = "Pressure";
+
+
+"pressure.about" = "Air pressure, also known as atmospheric pressure, is the invisible force that surrounds us and keeps our feet firmly planted on the ground. It's the weight of all the air molecules above us pressing down on our bodies. Air pressure is typically measured in units such as pascals, millibars, or inches of mercury, and it can have a big impact on our weather patterns. High air pressure often means clear skies and fair weather, while low air pressure can bring storms and precipitation.";
+
+/* 4-7 */
+"privacy.policy" = "Privacy Policy";
+
+
+"probability" = "Probability";
+
+
+"provided.action" = "AQI data provided by aqicn.org";
+
+
+"provided.openweathermap" = "Weather data provided by openweathermap.org";
+
+
+"purchase.failed" = "Purchase unsuccessful!";
+
+
+"purchase.problem" = "Purchase Problem";
+
+
+"quit.heyweather" = "Quit HeyWeather";
+
+
+"rain" = "Rain";
+
+
+"reached.maximum.cities" = "You've reached the maximum numbers of cities, you have to remove a city to add another one.";
+
+
+"remove.widget" = "Remove Widget";
+
+
+"renew.at" = "Renew at";
+
+
+"restore.done" = "Restore Done";
+
+
+"restore.done.text" = "Enjoy HeyWeather Premium!";
+
+/* MARK: - Page 21 */
+"restore.failed" = "Nothing to Restore";
+
+
+"restore.failed.message" = "We where unable to find a valid purchased plan in your transaction history or the plan that you purchased is expired!";
+
+/* 4-8 */
+"restore.failed.title" = "Purchase restore failed!";
+
+"restore.purchase" = "Restore Purchase";
+
+
+"restore.successful.message" = "Thank you for using HeyWeather!";
+
+
+"restore.successful.title" = "Your purchase has been restored successfully!";
+
+
+"review" = "Review HeyWeather";
+
+
+"sat" = "SAT";
+
+
+"satellite" = "Satellite";
+
+
+"saturday" = "Saturday";
+
+/* MARK: - Page 38 */
+"save.battery" = "To help saving battery, widgets update intervals during 1:00 am to 8:00 am will be 120 mins.";
+
+
+"save.theme" = "Save theme";
+
+
+"scroll.to.continue" = "Scroll to Continue";
+
+/* MARK: - Page 5 */
+"search.city" = "Search City";
+
+
+"search.for.city" = "Search for a city";
+
+
+"select.background" = "Select Background";
+
+/* MARK: - Page 12 */
+"select.city" = "Select City";
+
+/* MARK: - Page 33 */
+"select.customize" = "Select widget to customize";
+
+/* MARK: - Page 27 */
+"select.icon.style" = "Select icon style";
+
+
+"select.layer" = "Select Layer";
+
+/* 4-6 */
+"select.manually" = "Select Manually";
+
+
+"select.style" = "Select Style";
+
+/* MARK: - Page 32 */
+"select.theme" = "Select Theme";
+
+
+"select.to.add.city" = ", select to add new city";
+
+
+"selected" = "Selected";
+
+
+"set.theme" = "Set theme";
+
+/* MARK: - Page 16 */
+"settings" = "Settings";
+
+
+"settings.footer" = "Developed with ❤️\nMontréal-born, Paris-grown, by GCO Apps team.\n🇨🇦 🇫🇷";
+
+
+"share" = "Share HeyWeather";
+
+
+"show.adderss" = "Show Address If Available";
+
+
+"show.city.name" = "Show City Name";
+
+
+"show.feels.like" = "Show Feels Like";
+
+
+"signature.widgets" = "Signature Widgets";
+
+
+"signature.widgets.detail" = "The most beautiful widgets are here, but they are not customizable at all.";
+
+
+"skeuomorphism" = "Skeuomorphism";
+
+
+"skeuomorphism.detail" = "Nostalgic icons design inspired by iOS 6";
+
+
+"skip" = "Skip";
+
+
+"snow" = "Snow";
+
+
+"standard" = "Standard";
+
+
+"step.one" = "1. Go to Languages settings by tapping bellow.";
+
+
+"step.one.mac" = "1. Go to System Preferences > Language & Region > Apps.";
+
+
+"step.two" = "2. Tap language to select the language you want.";
+
+
+"storm" = "Storm";
+
+
+"style" = "Style";
+
+
+"subscribed.before" = "Subscribed Before?";
+
+
+"subscription.expired" = "Your subscription has been expired.";
+
+
+"subscription.expired.text" = "Please choose a new plan.";
+
+
+"subscription.feature.1" = "Enjoy new widget styles with every update!";
+
+
+"subscription.feature.2" = "Enjoy App on your apple watch in next update";
+
+
+"subscription.feature.3" = "Enjoy shorter update time on widgets.";
+
+
+"subscription.feature.4" = "Check different cities on widgets.";
+
+
+"subscription.feature.5" = "Customize every widgets as you desire.";
+
+/* MARK: - Page 30 */
+"subscription.long.text" = "After 1 week or 3 days free trial this subscription automatically renews unless it is canceled at least 24 hours before the end of the trial period. Your Apple ID account will be charged for renewal within 24 hours prior to the end of the trial period. You can manage and cancel your subscriptions by going to your account settings on your device.";
+
+
+"sun" = "SUN";
+
+
+"sun.rises" = "the sun rises at";
+
+
+"sun.sets" = "the sun sets at";
+
+
+"sunday" = "Sunday";
+
+
+"sunrise" = "Sunrise";
+
+
+"sunset" = "Sunset";
+
+
+"system.preferences" = "System Preferences";
+
+/* MARK: - Page 18 */
+"temperature" = "Temperature";
+
+/* 20-16 */
+"terms" = "Terms";
+
+/* 4-8 */
+"terms.and.conditions" = "Terms and Conditions";
+
+
+"theme" = "Theme";
+
+
+"theme.saved" = "Theme Saved!";
+
+
+"third.premium" = "Premium";
+
+
+
+"this.language" = "English";
+
+
+"thu" = "THU";
+
+
+"thursday" = "Thursday";
+
+
+"time.format" = "Time Format";
+
+
+"to.next.full.moon" = "To next Full Moon";
+
+
+"to.use.forecast.widgets" = "TO USE FORECAST WIDGETS";
+
+/* MARK: - New Strings */
+"today" = "Today";
+"today.abbr" = "Today";
+
+
+"today.more.button" = "today's weather detail";
+
+
+"try.premium" = "Try Premium";
+
+
+"try.premium.subtitle" = "After free trial, auto-renewal at";
+
+
+"tue" = "TUE";
+
+
+"tuesday" = "Tuesday";
+
+
+"tutorial.page.1.text" = "Widgets like which you haven’t seen before";
+
+
+"tutorial.page.1.title" = "Weather on Your Home Screen";
+
+
+"tutorial.page.2.text" = "From color and background image to Icons";
+
+/* MARK: - Page 2 */
+"tutorial.page.2.title" = "Customize Everything";
+
+
+"tutorial.page.3.text" = "Check weather from up to 10 cities";
+
+/* MARK: - Page 3 */
+"tutorial.page.3.title" = "No Boundries!";
+
+
+"tutorial.page.one" = "Check weather from multiple cities\non your home screen";
+
+
+"tutorial.page.three" = "View live and forecasted\natmosphere status on the map";
+
+
+"tutorial.page.two" = "Check live and forecasted\nweather data at ease";
+
+
+"unable.to.load.plans" = "Unable to load plans";
+
+
+"unknown.error" = "Unknown Error";
+
+
+"unlock.all.widgets" = "Unlock all widgets";
+
+
+"unlock.heyweather" = "Unlock HeyWeather";
+
+
+"unlock.heyweather.subtitle" = "for all your descendants";
+
+
+"upcoming.days" = "Upcoming days";
+
+
+
+"upgrade.to" = "Upgrade To";
+
+
+"us.aqi" = "US AQI:";
+
+
+"uv" = "UV Index";
+
+
+"uv.about" = "UV (Ultraviolet) is invisible sunlight radiation that affects our health and surroundings. The UV index in your weather app measures the sun's strength, with higher numbers meaning more risk. Protect yourself by wearing sunscreen, sunglasses, and hats, and seeking shade during peak UV hours (10 a.m. to 4 p.m.). Stay safe and enjoy the outdoors!";
+
+"clouds.about" = "Clouds come in different types and densities, from thin wispy cirrus to heavy cumulonimbus thunderclouds. The more extensive the cloud cover, the more likely precipitation will occur. Dark thick clouds may bring heavy rain or storms. Seek shelter if you hear thunder. While clouds can be beautiful, take caution as they signal changing weather. Their appearance forecasts coming conditions. Appreciate their beauty briefly, but be prepared to protect yourself if they become overcast.";
+
+"valid.1" = "Valid Until";
+
+
+"valid.2" = "Valid Until";
+
+
+"valid.forever" = "Valid Forever";
+
+
+"version" = "Version";
+
+
+"visibility" = "Visibility";
+
+
+"visibility.about" = "Visibility is how far we can see through the air, and it can be impacted by a variety of factors such as haze, fog, or smoke. Visibility is typically measured in miles or kilometers, and it's an important factor for air travel, driving, and outdoor activities.";
+
+/* 10-3 */
+"visible.sky" = "Visible in The Sky";
+
+
+"weather" = "Weather";
+
+
+"wed" = "WED";
+
+
+"wednesday" = "Wednesday";
+
+
+"week.more.button" = "this week's weather detail";
+
+
+"widget" = "Widget";
+
+
+"widget.background.auto" = "Light | Dark (iOS Setting)";
+
+
+"widget.background.blue" = "Blue";
+
+
+"widget.background.dark" = "Dark";
+
+
+"widget.background.default" = "Default";
+
+
+"widget.background.light" = "Light";
+
+
+"widget.background.orange" = "Orange";
+
+
+"widget.background.red" = "Red";
+
+
+"widget.background.teal" = "Teal";
+
+
+"widget.is.locked" = "This widget is locked";
+
+
+"widget.look" = "Widget Look";
+
+
+"widget.look.neumorph.description" = "Inspired by the neumorphism of macOS.";
+
+
+"widget.look.neumorph.title" = "Neumorphic Look (PREMIUM)";
+
+
+"widget.look.original.description" = "Same colors and icons in coherence with the app.";
+
+
+"widget.look.original.title" = "Original Look (PREMIUM)";
+
+
+"widget.look.simple.description" = "Simplified icons and colors for a seamless experience";
+
+
+"widget.look.simple.title" = "Simple Look (PREMIUM)";
+
+
+"widget.look.skeumorph.description" = "Inspired by the skeumorphic design of iOS 6.";
+
+
+"widget.look.skeumorph.title" = "Skeumorphic Look (PREMIUM)";
+
+
+"widget.style" = "Widget Style";
+
+
+"widgets" = "Widgets";
+
+/* MARK: - Page 31 */
+"widgets.category" = "Widgets Category";
+
+/* MARK: - Page 7 */
+"wind" = "Wind";
+
+
+"wind.about" = "Windspeed is the rate at which air is moving through the atmosphere, and it can be affected by a variety of factors such as temperature, pressure, and terrain. Wind can be a welcome relief on a hot day, or it can cause damage and destruction during a storm.";
+
+
+"wind.direction" = "Wind direction";
+
+
+"wind.speed" = "Wind Speed";
+
+
+"year" = "year";
+
+
+"years" = "years";
+
+/* MARK: - Page 22 */
+"you.are.premium" = "You Are Premium";
+
+
+"you.can.select.theme" = "You can Select\nthis theme now";
+
+"hours" = "hours";
+"and" = "and";
+"minutes" = "minutes";
+"forecast.premium.widget" = "To use Forecast Widgets and unlock many more features";
+"customize.premium.widget" = "To use Customizable Widgets and unlock many more features";
+"randomize.again" = "Randomize Again";
+"small" = "Small";
+"medium" = "Medium";
+"large" = "Large";
+"hooray" = "HOORAY!";
+"thanks.for.support" = "Thank you for suporting HeyWeather\nWe really appreciate it";
+"lockscreen.widgets" = "Lock Screen Widgets";
+"lockscreen.widget.details" = "Lock Screen Widgets are nice";
+"ls.current.one.title" = "Current Weather Condition";
+"ls.current.one.description" = "Current Temperature and daily max and min (PREMIUM)";
+"ls.current.two.title" = "Current Weather Condition (Detailed)";
+"ls.current.two.description" = "Current Temperature, Condition, Wind Speed, Humidity and Cloudiness (PREMIUM)";
+"ls.hourly.one.title" = "Horizontal Hourly Forecast";
+"ls.hourly.one.description" = "Weather Forecast for the upcoming hours (PREMIUM)";
+"ls.hourly.two.title" = "Vertical Hourly Forecast";
+"ls.hourly.two.description" = "Weather Forecast for the upcoming hours including precipitation (PREMIUM)";
+"ls.daily.one.title" = "Horizontal Daily Forecast";
+"ls.daily.two.description" = "Weather Forecast for the upcoming days (PREMIUM)";
+"ls.daily.two.title" = "Vertical Daily Forecast";
+"ls.precipitation.title" = "Current Precipitation";
+"ls.precipitation.description" = "Precipitation chance and amount (PREMIUM)";
+"ls.cloudiness.title" = "Cloudiness";
+"ls.cloudiness.description" = "Cloudiness Percentage of the sky right now (PREMIUM)";
+"ls.humidity.title" = "Humidity";
+"ls.humidity.description" = "Humidity Percentage right now (PREMIUM)";
+"ls.uv.title" = "UV Index";
+"ls.uv.description" = "Current UV Index (PREMIUM)";
+"is" = "is";
+"cloudiness" = "Cloudiness";
+
+"no.results" = "No Results";
+"no.location.access" = "We do not have access to your location, tap Grant Access to go to settings and enable location access for HeyWeather";
+"tap.to.retry" = "Tap to Retry";
+"view.data.from" = "View Data from";
+"grant.access" = "Grant Access!";
+"third.premium.subtitle.p1" = "Auto-renews each";
+"third.premium.subtitle.p2" = "until cancelled";
+
+"live.activity.disabled" = "Live Activities are Disabled";
+"live.activity.disabled.message" = "Go to HeyWeather settings and enable Live Activities";
+"open.settings" = "Open Settings";
+"live.activity.has.active.title" = "You have an active Live Activity";
+"live.activity.has.active.message" = "Do you want to replace precipitation on your current Live Activity with this one?";
+"yes.replace.it" = "Yes, Replace it.";
+"no" = "No.";
+"track.precipitation" = "Track Precipitation in Live Activity";
+"stop.tracking.precipitation" = "Stop Tracking Precipitation in Live Activty";
+"precipitation.starts.in.short" = "Starts in";
+"precipitation.ends.in.short" = "Ends in";
+"precipitation.steady.raining" = "Steady Rain";
+"see.more" = "See More";
+"settings.reddit" = "Reddit";
+"settings.twitter" = "X (FKA Twitter)";
+"please.wait" = "Please wait";
+"benefit.one" = "Unlock all widgets, styles, and customization.";
+"benefit.two" = "Get premium forecast sources for accurate updates.";
+"benefit.three" = "Stay updated with live precipitation activity.";
+"benefit.four" = "Explore forecast layers on maps & radar.";
+"benefit.five" = "Enjoy extended 15-day and 360-hour forecasts.";
+"benefit.six" = "Access AQI forecast and widgets.And much more!";
+"premium.perks.title" = "Discover limitless possibilities with Premium!:";
+"precipitation.acc.steady" = "Steady rain continues";
+"precipitation.acc.start" = "Rain starts in";
+"precipitation.acc.end" = "Rain ends in";
+"precipitation.acc.intensity" = "Rain intensity is";
+"precipitation.acc.mmh" = "millimeters per hour";
+"precipitation.acc.inph" = "inches per hour";
+"pull.to.refresh" = "Pull to Refresh";
+"feels" = "Feels";
+"aqi.widgets" = "AQI Widgets";
+"aqi.widgets.detail" = "Protect yourself from pollution with AQI Forecast Widgets";
+"ls.aqi.widget.title" = "Current AQI Status";
+"ls.aqi.widget.description" = "US AQI Status (PREMIUM)";
+"aqi.premium.widget" = "To use AQI Widgets and unlock many more features";
+"tomorrow" = "Tomorrow";
+"upcoming.hours" = "Upcoming hours";
+"accumulated.precipitation" = "Accumulated precipitation";
+"rain.fall" = "Rain Fall";
+"snow.fall" = "Snow Fall";
+"daylight" = "Daylight";
+"daylight.duration" = "Daylight Duration";
+"cloudy.days" = "Cloudy Days";
+"climate.summary" = "Climate Summary";
+"climate.data" = "Climate Data";
+"minimum" = "Minimum";
+"median" = "Median";
+"maximum" = "Maximum";
+"tap.to.load.timeline" = "Tap to Load Timeline Data";
+"aqi.style.simple" = "Simple Style";
+"aqi.style.guage" = "Guage Style";
+"aqi.style.detailed" = "Detailed Style";
+"aqi.style.simple.desc" = "Elegant and\nto the point";
+"aqi.style.guage.desc" = "A more\ngraphical look\n(PREMIUM)";
+"aqi.style.detailed.desc" = "Classy and\ninformational\n(PREMIUM)";
+"aqi.widgets.guide" = "You can select AQI widgets from the iOS widget gallery and then choose the desired style by long-pressing the widgets. (Premium)";
+
+
+"sun_distance" = "Sun Distance";
+"daylight_duration" = "Daylight Duration";
+"sun_altitude" = "Altitude";
+"sun_direction" = "Direction";
+"time.travel" = "Time Travel";
+"view.weather" = "View Weather";
+"time.travel.select.date" = "Select a point in time to go to";
+"weather.summary" = "Weather Summary";
+"precast.data" = "Precast Data";
+"timetravel.subscription" = "Subscribe to HeyWeather\nPremium to view\nPre Cast Weather Data";
+"timetravel.view.weather.from.past" = "View the weather from past";
+"climate.subscription" = "Subscribe to HeyWeather\nPremium to view\nClimate Data";
+"this.is.a.premium.feature" = "This is a\nPremium Feature";
+"sun.always.up" = "Sun Always Up";
+"sun.always.down" = "Sun Always Down";
+
+"n.e.no.internet" = "There is a problem connecting to the internet\nPlease check your WiFi Settings\nand make sure that you are online";
+"n.e.internal.server" = "We are facing a serven error, Please check back again later";
+"n.e.not.modified" = "Data is not modified since the last time you were here";
+"n.e.bad.request" = "We have a Bad Request error on our side, please check back later";
+"n.e.unauthorized" = "The action you are trying to do is UnAuthorized, Please try reopenning the app or come back later";
+"n.e.forbidden" = "The action you are trying to do is Forbidden, Please try reinstalling the app";
+"n.e.notFound" = "The resource you requested can not be found, this will be fixed soon";
+"n.e.conflict" = "There is a conflict in your request, please check back again later";
+"n.e.unknown" = "We are facing an Unknown error, check back later so we can fix it";
+
+"icon.pack" = "Icon Pack";
+"font.style" = "Font Style";
+"alerts" = "Alerts";
+"sender" = "Sender";
+"more" = "more";
+"n.e.out.of.sync" = "Please open the\nHeyWeather App\non your iPhone\nto continue";
+"set.as.default.city" = "Set as Default City?";
+"yes" = "Yes";
+"alert_start" = "Start:";
+"alert_end" = "End:";
+"alert_severity" = "Severity:";
+"alert_urgency" = "Urgency:";
+"alert_response" = "Response:";
+"alert_instructions" = "Instructions:";
+"alert_areas" = "Areas:";
+"alert_sender" = "Sender:";
+
+"user.notification.config" = "Notification";
