@@ -1,0 +1,1556 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Air Quality" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوعية الهواء"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luftqualität"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιότητα αέρα"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Air Quality"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "calidad del aire"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "کیفیت هوا"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calidad del aire"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "איכות האוויר"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वायु गुणवत्ता"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qualità dell'aria"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空気の質"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대기 질"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luchtkwaliteit"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qualidade do ar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "качество воздуха"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณภาพอากาศ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hava kalitesi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空气质量"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣質量"
+          }
+        }
+      }
+    },
+    "Air Quality Index : %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مؤشر جودة الهواء: %lld"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luftqualitätsindex: %lld"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δείκτης Ποιότητας Αέρα: %lld"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Air Quality Index : %lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Índice de Calidad del Aire: %lld"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شاخص کیفیت هوا : %lld"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice de qualité de l'air : %lld"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדד איכות האוויר: %lld"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वायु गुणवत्ता सूचकांक : %lld"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice di qualità dell'aria: %lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大気の質指数：%lld"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대기질 지수: %lld"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luchtkwaliteitsindex : %lld"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Índice de Qualidade do Ar: %lld"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Индекс качества воздуха: %lld"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดัชนีคุณภาพอากาศ : %lld"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hava Kalitesi Indeksi: %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空气质量指数 : %lld"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣品質指標 : %lld"
+          }
+        }
+      }
+    },
+    "AQI" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مؤشر نوعية الهواء"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ΔΠΑ"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ICA"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IQA"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדד איכות האוויר"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक्यूआई"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IQA"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IQA"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "аки"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空气品质指标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣質量指數"
+          }
+        }
+      }
+    },
+    "AQI: %@ - %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مؤشر جودة الهواء: %1$@ - %2$@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI: %1$@ - %2$@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ΔΠΑ: %1$@ - %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI: %1$@ - %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ICA: %1$@ - %2$@"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شاخص کیفیت هوا: %1$@ - %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI : %1$@ - %2$@"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדד איכות האוויר: %1$@ - %2$@"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI: %1$@ - %2$@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI: %1$@ - %2$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI: %1$@ - %2$@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대기질 지수: %1$@ - %2$@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LKI: %1$@ - %2$@"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IAQ: %1$@ - %2$@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ИКВ: %1$@ - %2$@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดัชนีคุณภาพอากาศ: %1$@ - %2$@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HKI: %1$@ - %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI: %1$@ - %2$@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣品質指標: %1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "aqi.about" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مؤشر نوعية الهواء هو مقياس يستخدمه الجهات الحكومية لإبلاغ الجمهور بمدى تلوث الهواء حاليًا أو المتوقع أن يصل إليه. تزداد مخاطر الصحة العامة كلما ارتفع المؤشر. لكل دولة مؤشرها الخاص لنوعية الهواء تبعًا لمعاييرها الوطنية. من هذه المؤشرات: مؤشر نوعية الهواء والصحة (كندا) ومؤشر تلوث الهواء (ماليزيا) ومؤشر معايير الملوثات (سنغافورة).المخاطر:منخفضة (1-3)معتدلة (4-6)عالية (7-10) مرتفعة جدًا (أكثر من 10)"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Luftqualitätsindex (AQI) wird von Regierungsstellen verwendet, um der Öffentlichkeit mitzuteilen, wie verschmutzt die Luft derzeit ist oder wie stark sie voraussichtlich verschmutzt wird. Mit steigendem AQI erhöht sich das Risiko für die öffentliche Gesundheit. Verschiedene Länder haben ihre eigenen Luftqualitätsindizes, die verschiedenen nationalen Luftqualitätsstandards entsprechen. Einige davon sind der Air Quality Health Index (Kanada), der Air Pollution Index (Malaysia) und der Pollutant Standards Index (Singapur)."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένας δείκτης ποιότητας αέρα (ΔΠΑ) χρησιμοποιείται από κρατικούς οργανισμούς για να επικοινωνήσουν στο κοινό πόσο μολυσμένος είναι ο αέρας που διανύουμε ή πόσο μολυσμένος προβλέπεται να γίνει. Οι κίνδυνοι για τη δημόσια υγεία αυξάνονται καθώς ο ΔΠΑ αυξάνεται. Διάφορες χώρες έχουν τους δικούς τους δείκτες ποιότητας αέρα, που αντιστοιχούν σε διάφορα εθνικά πρότυπα ποιότητας αέρα. Κάποια από αυτά είναι το Air Quality Health Index (Καναδάς), το Air Pollution Index (Μαλαισία), και το Pollutant Standards Index (Σιγκαπούρη).\\n\\nΡίσκο:\\nΧαμηλό (1–3)\\nΜέτριο (4–6)\\nΥψηλό (7–10)\\nΠολύ υψηλό (πάνω από 10)\\n"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An air quality index (AQI) is used by government agencies to communicate to the public how polluted the air currently is or how polluted it is forecast to become. Public health risks increase as the AQI rises. Different countries have their own air quality indices, corresponding to different national air quality standards. Some of these are the Air Quality Health Index (Canada), the Air Pollution Index (Malaysia), and the Pollutant Standards Index (Singapore).\\n\\nRisk:\\nLow (1–3)\\nModerate (4–6)\\nHigh (7–10)\\nVery high (above 10)\\n"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un índice de calidad del aire (AQI) es utilizado por las agencias gubernamentales para comunicar al público qué tan contaminado está actualmente el aire o qué tan contaminado se pronostica que se volverá. Los riesgos para la salud pública aumentan a medida que el AQI aumenta. Diferentes países tienen sus propios índices de calidad del aire, correspondientes a diferentes estándares nacionales de calidad del aire. Algunos de estos son el Índice de Salud de la Calidad del Aire (Canadá), el Índice de Contaminación del Aire (Malasia), y el Índice de Normas de Contaminantes (Singapur)."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شاخص کیفیت هوا (AQI) توسط سازمان‌های دولتی برای اطلاع‌رسانی به مردم در مورد آلودگی هوا در حال حاضر یا پیش‌بینی شده استفاده می‌شه. با بالا رفتن AQI، خطرات بهداشتی افزایش پیدا می‌کنه. کشورهای مختلف شاخص‌های کیفیت هوای خودشون رو دارن که متناسب با استانداردهای ملی کیفیت هوای اون کشوره. برخی از این شاخص‌ها عبارتن از شاخص کیفیت هوا و سلامتی (کانادا)، شاخص آلودگی هوا (مالزی) و شاخص استاندارد آلاینده‌ها (سنگاپور)."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un indice de qualité de l'air (AQI) est utilisé par les agences gouvernementales pour communiquer au public à quel point l'air est actuellement pollué ou à quel point il est prévu qu'il le devienne. Les risques pour la santé publique augmentent à mesure que l'AQI augmente. Différents pays ont leurs propres indices de qualité de l'air, correspondant à différentes normes nationales de qualité de l'air. Certains d'entre eux sont l'Indice de Qualité de l'Air Sanitaire (Canada), l'Indice de Pollution de l'Air (Malaisie), et l'Indice des Normes de Polluants (Singapour)."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדד איכות האוויר (AQI) משמש את המשרדים הממשלתיים לתקשורת עם הציבור אודות כמה האוויר מזוהם כרגע או כמה הוא צפוי להיות מזוהם. הסיכון לבריאות הציבור עולה כאשר ה-AQI עולה. למדינות שונות יש מדדים שונים של איכות אוויר, המתאימים לתקנות האוויר הלאומיות שלהם. חלק מאלה הם מדד בריאות איכות האוויר (קנדה), מדד הזיהום האוויר (מלזיה), ומדד הזיהום (סינגפור).\\n\\nסיכון:\\nנמוך (1-3)\\nבינוני (4-6)\\nגבוה (7-10)\\nגבוה מאוד (מעל 10)\\n"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वायु गुणवत्ता सूचकांक (AQI) का उपयोग सरकारी एजेंसियों द्वारा सार्वजनिक को यह संचारित करने के लिए किया जाता है कि वायु वर्तमान में कितनी प्रदूषित है या यह कितनी प्रदूषित होने की अनुमानित है। AQI बढ़ने के साथ सार्वजनिक स्वास्थ्य जोखिम बढ़ते हैं। विभिन्न देशों में उनके खुद के वायु गुणवत्ता सूचकांक होते हैं, जो विभिन्न राष्ट्रीय वायु गुणवत्ता मानकों के अनुरूप होते हैं। इनमें से कुछ वायु गुणवत्ता स्वास्थ्य सूचकांक (कनाडा), वायु प्रदूषण सूचकांक (मलेशिया), और प्रदूषक मानक सूचकांक (सिंगापुर) हैं।"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un indice di qualità dell'aria (AQI) è utilizzato dagli enti governativi per comunicare al pubblico quanto l'aria sia attualmente inquinata o quanto si prevede che lo diventi. I rischi per la salute pubblica aumentano man mano che l'AQI aumenta. Diversi paesi hanno i loro indici di qualità dell'aria, corrispondenti a diversi standard nazionali di qualità dell'aria. Alcuni di questi sono l'Air Quality Health Index (Canada), l'Air Pollution Index (Malesia) e l'Indice degli standard inquinanti (Singapore)."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空気質指数（AQI）は、政府機関が現在の大気汚染の程度や予想される大気汚染の程度を一般に伝えるために使用されます。AQIが上昇すると、公衆衛生のリスクも増加します。各国には、各国の空気質基準に対応した独自の空気質指数があります。その中には、空気質健康指数（カナダ）、大気汚染指数（マレーシア）、汚染物質基準指数（シンガポール）があります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공기질 지수(AQI)는 정부 기관이 현재 공기가 얼마나 오염되어 있는지 또는 얼마나 오염될 것으로 예측되는지 대중에게 알리는 데 사용됩니다. AQI가 오르면 공중보건 위험이 증가합니다. 다른 국가들은 각각의 국가 공기질 기준에 해당하는 자체 공기질 지수를 가지고 있습니다. 이러한 것들 중 일부는 공기질 건강 지수(캐나다), 대기 오염 지수(말레이시아), 오염 물질 기준 지수(싱가포르)입니다."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een luchtkwaliteitsindex (AQI) wordt gebruikt door overheidsinstanties om aan het publiek te communiceren hoe vervuild de lucht momenteel is of hoe vervuild het naar verwachting zal worden. De risico's voor de volksgezondheid nemen toe naarmate de AQI stijgt. Verschillende landen hebben hun eigen luchtkwaliteitsindices, die overeenkomen met verschillende nationale luchtkwaliteitsnormen. Enkele hiervan zijn de Air Quality Health Index (Canada), de Air Pollution Index (Maleisië), en de Pollutant Standards Index (Singapore)."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um índice de qualidade do ar (AQI) é usado por agências governamentais para comunicar ao público o quão poluído está o ar atualmente ou o quão poluído está previsto que se torne. Os riscos para a saúde pública aumentam à medida que o AQI sobe. Diferentes países têm seus próprios índices de qualidade do ar, correspondendo a diferentes padrões nacionais de qualidade do ar. Alguns destes são o Índice de Saúde da Qualidade do Ar (Canadá), o Índice de Poluição do Ar (Malásia), e o Índice de Padrões Poluentes (Singapura)."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Индекс качества воздуха (ИКВ) используется государственными органами для информирования общественности о текущем уровне загрязненности воздуха или о прогнозируемом уровне загрязнения. Риски для общественного здоровья увеличиваются с ростом ИКВ. Разные страны имеют свои собственные индексы качества воздуха, соответствующие различным национальным стандартам качества воздуха. Некоторые из них - это Индекс качества здоровья воздуха (Канада), Индекс загрязнения воздуха (Малайзия), и Индекс стандартов загрязняющих веществ (Сингапур)."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดัชนีคุณภาพอากาศ (AQI) นั้นใช้โดยหน่วยงานของรัฐในการสื่อสารถึงประชาชนว่าอากาศปัจจุบันมีมลพิษเพียงใด หรือประมาณการว่าอากาศจะมีมลพิษเพียงใดในอนาคต ความเสี่ยงต่อสุขภาพสาธารณะจะเพิ่มขึ้นตามที่ AQI เพิ่มขึ้น ประเทศต่างๆ มีดัชนีคุณภาพอากาศของตนเอง ตรงกับมาตรฐานคุณภาพอากาศแห่งชาติที่แตกต่างกัน บางส่วนในนั้นเช่น ดัชนีคุณภาพอากาศทางสุขภาพ (แคนาดา) ดัชนีความสกปรกในอากาศ (มาเลเซีย) และดัชนีมาตรฐานของสารปนเปื้อน (สิงคโปร์).\\n\\nความเสี่ยง:\\nต่ำ (1–3)\\nปานกลาง (4–6)\\nสูง (7–10)\\nมาก (สูงกว่า 10)\\n"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hava kalitesi indeksi (AQI), hükümet kurumları tarafından halka şu anda hava ne kadar kirli veya kirli olacağı tahmin edildiği konusunda bilgi vermek için kullanılır. AQI arttıkça halk sağlığı riskleri artar. Farklı ülkelerin kendi hava kalitesi indeksleri vardır, bu indeksler farklı ulusal hava kalitesi standartlarına denk gelir. Bunlardan bazıları Hava Kalitesi Sağlık İndeksi (Kanada), Hava Kirliliği İndeksi (Malezya) ve Kirletici Standartları İndeksi (Singapur)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空气质量指数(AQI)是由政府机构使用的，用于向公众传达当前的空气污染程度或预计将变得多么污染。AQI上升，公共卫生风险也增加。不同的国家有自己的空气质量指数，对应于不同的国家空气质量标准。其中一些是空气质量健康指数(加拿大)，空气污染指数(马来西亚)，和污染物标准指数(新加坡)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣質量指數（AQI）是政府機構用來向公眾傳遞目前空氣污染程度或預測空氣污染程度的指標。隨著AQI的升高，公共健康風險也會增加。不同的國家有不同的空氣質量指數，對應不同的國家空氣質量標準。其中一些指標有Air Quality Health Index（加拿大）、Air Pollution Index（馬來西亞）和Pollutant Standards Index（新加坡）。\\n\\n風險級別:\\n低（1-3）\\n中度（4-6）\\n高（7-10）\\n非常高（大於10）"
+          }
+        }
+      }
+    },
+    "aqi.is" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوعية الهواء"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luftqualität ist"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η Ποιότητα Αέρα είναι"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Air Quality is"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La calidad del aire es"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "کیفیت هوا"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La qualité de l'air est"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "איכות האוויר היא"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वायु गुणवत्ता"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La qualità dell'aria è"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空気の質"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공기질"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De luchtkwaliteit is"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A qualidade do ar é boa"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Качество Воздуха "
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณภาพอากาศคือ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hava Kalitesi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空气质量是"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空氣質量為"
+          }
+        }
+      }
+    },
+    "Cautionary Statement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بيان تحذيري"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnende Aussage"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προειδοποιητική δήλωση"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cautionary Statement"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Declaración precautoria"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هشدار"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L`avertissement"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הודעה אזהרה"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चेतावनी बयान"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dichiarazione di avvertimento"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "警告的なステートメント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주의사항"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voorzorgsmaatregelen"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Declaração de advertência"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Изложение предостережения"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำเตือน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uyarıcı Açıklama"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "警示声明"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "謹慎聲明"
+          }
+        }
+      }
+    },
+    "Get Air Quality Forecasts with Premium!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "احصل على تنبؤات نوعية الهواء مع الإصدار المميز!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erhalten Sie Luftqualitätsvorhersagen mit Premium!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποκτήστε προβλέψεις για την ποιότητα του αέρα με το Premium!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Air Quality Forecasts with Premium!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Obtén pronósticos de calidad del aire con Premium!"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "پیش‌بینی کیفیت هوا رو با نسخه پیشرفته دریافت کن!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtenez des prévisions de qualité de l'air avec Premium !"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "קבל תחזיות לאיכות האוויר עם Premium!"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रीमियम के साथ वायु गुणवत्ता भविष्यवाणी प्राप्त करें!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottieni le previsioni sulla qualità dell'aria con Premium!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレミアムで空気質予報を取得！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium으로 대기 질 예보를 받으세요!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krijg luchtkwaliteitsvoorspellingen met Premium!"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtenha previsões de qualidade do ar com Premium!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Получите прогнозы качества воздуха с Premium!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รับการพยากรณ์คุณภาพอากาศด้วย Premium!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium ile Hava Kalitesi Tahminlerini alın!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "获取空气质量预报需要付费！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用高級版獲得空氣質量預報！"
+          }
+        }
+      }
+    },
+    "Health Implications" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الآثار الصحية"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "gesundheitliche Auswirkungen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επιπτώσεις στην υγεία"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Health Implications"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Implicaciones sanitarias"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تاثیرات بهداشتی"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les Implications pour la santé"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "השלכות לבריאות"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्वास्थ्य प्रभाव"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Implicazioni per la salute"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康影響"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "건강상의 영향"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gezondheidsimplicaties"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Implicações para a saúde"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Последствия для здоровья"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผลกระทบทางสุขภาพ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sağlık Etkileri"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康影响"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康影響"
+          }
+        }
+      }
+    },
+    "Pollutants" : {
+
+    },
+    "Upcoming days" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأيام القادمة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komende dagen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επερχόμενες ημέρες"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upcoming days"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximos días"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "روزهای آینده"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jours à venir"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הימים הקרובים"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आने वाले दिन"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorni a venire"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今後の日程"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다가오는 일들"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komende dagen"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximos dias"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ближайшие дни"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันที่จะถึง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gelecek günler"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即将到来的日子"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即將到來的幾天"
+          }
+        }
+      }
+    },
+    "Upcoming hours" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الساعات القادمة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In den nächsten Stunden"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσεχείς ώρες"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upcoming hours"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximas horas"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ساعت های آینده"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heures à venir"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "שעות קרובות"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आने वाले घंटे"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prossime ore"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今後の時間"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다가오는 시간"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komende uren"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximas horas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ближайшие часы"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชั่วโมงที่จะถึง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yaklaşan saatler"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即将到来的几个小时"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即将到来的几个小时"
+          }
+        }
+      }
+    },
+    "US AQI:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مؤشر نوعية الهواء:"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: "
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI:"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: "
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شاخص کیفیت هوا:"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: "
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדד איכות האוויר בארה ב:"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अमेरिकी AQI: "
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: "
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미국 AQI: "
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VS AQI: "
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: "
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: "
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AQI ของสหรัฐ:"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABD AQI: "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "美国 AQI: "
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "美國 AQI："
+          }
+        }
+      }
+    },
+    "US AQI: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جودة الهواء في الولايات المتحدة: %@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US-Luftqualitätsindex: %@"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιότητα αέρα ΗΠΑ: %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: %@"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شاخص کیفیت هوا در ایالات متحده: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qualité de l'air: %@"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "איכות האוויר בארה\"ב: %@"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qualità dell'aria negli Stati Uniti: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미세먼지 지수: %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VS Luchtkwaliteitsindex: %@"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EUA AQI: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: %@"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "US AQI: %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABD Hava Kalitesi Endeksi: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "美国空气质量指数: %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "美國空氣質量指數: %@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

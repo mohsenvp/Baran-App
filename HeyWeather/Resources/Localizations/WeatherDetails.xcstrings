@@ -1,0 +1,2029 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Cloudiness" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الغطاء السحابي"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewölkung"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συννεφιά"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cloudiness"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nubosidad"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابرناکی"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nébulosité"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עננות"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बादलगिरी"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copertura nuvolosa"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雲量"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구름량"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewolking"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuvens"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Облачность"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความเมฆ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulutluluk"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "云量"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雲量"
+          }
+        }
+      }
+    },
+    "Clouds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الغيوم"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wolken"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σύννεφα"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clouds"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nubes"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابر"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuageux"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עננים"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बादलों"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuvole"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "曇"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구름"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wolk"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuvens"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Облака"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมฆ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulutlar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "云"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雲"
+          }
+        }
+      }
+    },
+    "CLOUDS.ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تأتي السحب بأشكال وكثافات مختلفة، من السحب الرقيقة إلى سحب الركام الممطرة التي تحمل العواصف. كلما زادت طبقة السحب كلما زاد احتمال الهطول. قد تحمل السحب الداكنة الكثيفة أمطاراً غزيرة أو عواصف. ابحث عن ملجأ إذا سمعت الرعد. على الرغم من جمالها، السحب تشير إلى تغيّر الطقس. ظهورها يتنبأ بالظروف القادمة. تمتّع بجمالها لفترة وجيزة، ولكن كن مستعداً للحماية إذا تكاثفت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wolken kommen in verschiedenen Formen und Dichten vor, von dünnen Zirruswolken bis zu dicken Cumulonimbuswolken, die Gewitter bringen. Je umfangreicher die Wolkendecke ist, desto wahrscheinlicher ist Niederschlag. Dunkle dicke Wolken können starken Regen oder Stürme bringen. Suchen Sie Schutz, wenn Sie Donner hören. Auch wenn Wolken schön sein können, sind sie ein Anzeichen für Wetteränderungen. Ihr Erscheinen sagt kommende Bedingungen voraus. Genießen Sie ihre Schönheit kurz, aber seien Sie bereit, sich zu schützen, wenn sie sich verdunkeln."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα σύννεφα εμφανίζονται σε διάφορους τύπους και πυκνότητες, από αραιά cirrus μέχρι cumulonimbus που φέρνουν καταιγίδες. Όσο πιο εκτεταμένη είναι η νέφωση, τόσο πιο πιθανές οι βροχοπτώσεις. Σκούρα πυκνά σύννεφα μπορεί να φέρουν έντονες βροχές ή καταιγίδες. Βρείτε καταφύγιο αν ακούσετε βροντές. Αν και τα σύννεφα μπορεί να είναι όμορφα, προμηνύουν αλλαγή καιρού. Η εμφάνισή τους προβλέπει τις επερχόμενες συνθήκες. Εκτιμήστε σύντομα την ομορφιά τους, αλλά προετοιμαστείτε να προστατευτείτε αν σκοτεινιάσουν."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clouds come in different types and densities, from thin wispy cirrus to heavy cumulonimbus thunderclouds. The more extensive the cloud cover, the more likely precipitation will occur. Dark thick clouds may bring heavy rain or storms. Seek shelter if you hear thunder. While clouds can be beautiful, take caution as they signal changing weather. Their appearance forecasts coming conditions. Appreciate their beauty briefly, but be prepared to protect yourself if they become overcast."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las nubes se presentan en diversos tipos y densidades, desde cirros delgados hasta cumulonimbos que traen tormentas. Cuanto mayor sea la cubierta de nubes, mayor será la probabilidad de precipitaciones. Las nubes oscuras y densas pueden provocar lluvias intensas o tormentas. Busque refugio si oye truenos. Aunque pueden ser hermosas, las nubes señalan cambios en el clima. Su aparición predice las condiciones venideras. Aprecie brevemente su belleza, pero prepárese para protegerse si se oscurecen."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابرها با انواع و غلظت های مختلفی از ابرهای پر پشت تا ابرهای توده ای بارانی که طوفان می‌آورند، ظاهر می‌شوند. هر چه لایه ابرها ضخیم تر باشد، احتمال بارش بیشتر است. ابرهای تیره و غلیظ می‌توانند باران سنگین یا طوفان به همراه داشته باشند. اگر صدای رعد و برق شنیدید، به دنبال پناهگاه باشید. اگرچه ابرها می‌توانند زیبا باشند، نشانه‌ای از تغییرات آب و هوا هستند. ظهور آنها پیش‌بینی کننده شرایط آینده است. به زیبایی آنها به اختصار بنگرید، اما آماده محافظت از خود در برابرشان باشید اگر تیره شوند."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les nuages se présentent sous différents types et densités, des cirrus fins aux cumulonimbus orageux. Plus la couverture nuageuse est étendue, plus les précipitations sont probables. Les nuages sombres et épais peuvent apporter des orages ou des pluies diluviennes. Mettez-vous à l'abri si vous entendez le tonnerre. Bien que beaux, les nuages signalent un changement de temps. Leur apparition prédit les conditions à venir. Appréciez brièvement leur beauté, mais préparez-vous à vous protéger s'ils s'assombrissent."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עננים מגיעים בסוגים וצפיפויות שונים, החל מעננים דקיקים וכלה בעננים כבדים המביאים סופות רעמים. ככל ששכבת העננים עבה יותר, כך גובר הסיכוי למשקעים. עננים כהים וצפופים יכולים להביא גשם כבד או סופות. חפשו מחסה אם אתם שומעים רעמים. למרות שעננים יכולים להיות יפים, הם מסמנים שינוי במזג האוויר. הופעתם מנבאת את התנאים הקרבים. העריכו לרגע את יופיים, אך היו מוכנים להגן על עצמכם אם הם מחשיכים."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बादल अलग-अलग आकार और घनत्व में आते हैं, पतले सर्रस बादल से लेकर भारी क्यूमुलोनिंबस बादल जो आंधी लाते हैं। बादलों की परत जितनी अधिक होगी, वर्षा होने की संभावना उतनी ही अधिक होगी। गहरे, घने बादल भारी वर्षा या तूफान ला सकते हैं। अगर आप गरज सुनें तो शरण लें। हालांकि बादल सुंदर हो सकते हैं, वे मौसम बदलाव का संकेत हैं। उनका प्रकट होना आने वाली स्थिति की भविष्यवाणी करता है। थोड़ी देर के लिए उनकी सुंदरता का आनंद लें, लेकिन अगर वे गहरे हो जाएँ तो स्वयं की सुरक्षा के लिए तैयार रहें।"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le nuvole si presentano in diversi tipi e densità, dalle sottili cirri alle cumulonimbus che portano i temporali. Maggiore è la copertura nuvolosa, maggiore è la probabilità di precipitazioni. Nuvole scure e dense possono portare piogge intense o tempeste. Cercate riparo se sentite tuoni. Sebbene possano essere belle, le nuvole segnalano cambiamenti meteorologici. La loro comparsa predice le condizioni imminenti. Apprezzatene brevemente la bellezza, ma preparatevi a proteggervi se si addensano."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雲は細い巻雲から雷雨をもたらす積乱雲まで、様々な形と濃度があります。雲の覆いが広がれば広がるほど、降水の可能性が高くなります。暗く濃い雲は激しい雨や嵐をもたらすことがあります。雷が鳴ったら避難してください。雲は美しく見えることもありますが、天気の変化を告げる信号です。雲の出現は次に来る条件を予測します。その美しさを短時間楽しんでください。しかし、雲が暗くなったら身を守る準備をしてください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구름은 얇은 권적구름부터 무거운 천둥구름까지 다양한 유형과 밀도를 가지고 있습니다. 구름 피복이 광범위할수록 강수 가능성이 높아집니다. 짙고 무거운 구름은 폭우나 폭풍을 동반할 수 있습니다. 천둥 소리가 들리면 대피하십시오. 구름은 아름답지만, 구름의 모습은 변화하는 날씨를 예고합니다. 구름의 출현은 다가오는 조건을 예측할 수 있습니다. 그 아름다움을 잠시 감상하시되, 구름이 드리워지면 자신을 보호하기 위한 준비를 하십시오."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wolken komen in verschillende typen en dichtheden, van dunne sluierwolken tot zware onweerswolken. Hoe uitgebreider de wolkendek, hoe waarschijnlijker neerslag. Donkere dikke wolken kunnen zware regen of onweer brengen. Zoek beschutting als u donder hoort. Wolken kunnen mooi zijn, maar zijn een voorbode van veranderend weer. Hun verschijning voorspelt komende omstandigheden. Waardeer hun schoonheid kort, maar bereid u voor op bescherming bij bewolking."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As nuvens aparecem em diferentes tipos e densidades, desde cirros finos até cumulonimbos que trazem trovoadas. Quanto maior a cobertura de nuvens, maior a probabilidade de precipitação. Nuvens escuras e espessas podem trazer chuva forte ou tempestades. Procure abrigo se ouvir trovões. Embora possam ser bonitas, nuvens sinalizam mudanças no tempo. Seu aparecimento prevê as condições vindouras. Aprecie brevemente sua beleza, mas se escurecerem, prepare-se para se proteger."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Облака бывают разных типов и плотности, от тонких перистых до мощных кучево-дождевых, приносящих грозу. Чем больше облачность, тем выше вероятность осадков. Темные плотные облака могут принести сильный дождь или шторм. При раскатах грома ищите укрытие. Хотя облака могут быть красивы, они сигнализируют об изменениях погоды. Их появление предвещает грядущие условия. Наслаждайтесь их красотой недолго, но будьте готовы укрыться, если они потемнеют."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เมฆมีหลายชนิดและความหนาแน่น เริ่มตั้งแต่เมฆละเอียดบางๆ จนถึงเมฆสะสมที่นําพาพายุฝนฟ้าคะนอง ยิ่งชั้นเมฆหนามากเท่าใด ความเป็นไปได้ที่จะตกฝนก็มากขึ้นเท่านั้น หากเมฆมืดและหนาอาจนําฝนตกหนักหรือพายุมาให้ หากได้ยินเสียงฟ้าร้องควรหาที่กําบังโดยเร็ว แม้เมฆอาจสวยงาม แต่บ่งบอกถึงการเปลี่ยนแปลงของอากาศ การปรากฏตัวของเมฆบอกเหตุการณ์ที่กําลังจะมาถึง จงชื่นชมความงามอย่างรวดเร็ว แต่เตรียมพร้อมป้องกันตัวเองหากเมฆมืดมากขึ้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulutlar ince cirrüs bulutlarından fırtına getiren kümülonimbüs bulutlarına kadar çeşitli şekil ve yoğunluklarda gelirler. Bulut kaplama ne kadar yaygınsa yağış ihtimali o kadar yüksek olur. Koyu, kalın bulutlar şiddetli yağmur veya fırtına getirebilir. Gök gürültüsü duyarsanız sığınak arayın. Güzel görünseler de, bulutlar hava değişikliğinin habercisidir. Ortaya çıkmaları yaklaşan koşulları önceden müjdeler. Güzelliklerinin keyfini kısaca çıkarın, ama koyulaşırlarsa kendinizi korumak için hazırlıklı olun."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "云有不同类型和密度,从薄纱状卷云到阴沉的雷雨云。云量越大,降水的可能性越高。阴暗厚重的云会带来暴雨或雷暴。如果听到雷声,应该立即躲避。虽然云朵很美,但它们预示着天气的变化。云的出现可预测即将来临的条件。可以简单欣赏它们的美,但如果天色阴沉就应准备好自我保护。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雲朵有不同的類型和密度,從薄紗狀的卷雲到會帶來雷暴的積雨雲。雲層越厚,降水的可能性就越高。深色濃厚的雲朵可能會帶來暴雨或風暴。如果你聽到雷鳴,應該立即尋求庇護。雖然雲朵可以很美,但它們代表天氣將要變化。它們的出現預示著未來的氣候狀況。可以简短欣賞它們的美,但當雲層變厚時,應做好自我保護的準備。"
+          }
+        }
+      }
+    },
+    "Dew Point" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نقطة الندى"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taupunkt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σημείο Δροσιάς"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dew Point"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Punto de rocío"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نقطه شبنم"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Point de rosée"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "נקודת הטל"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ओसांक"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Punto di condensazione dell'acqua"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "露天"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이슬점"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dauwpunt"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponto de condensação da água"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Точка росы"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จุดน้ำค้าง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çiy Noktası"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "露点"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "露點"
+          }
+        }
+      }
+    },
+    "DEW.ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نقطة الندى هي درجة الحرارة التي يبدأ عندها بخار الماء في الهواء بالتكثف على شكل قطرات. تعتبر مقياساً مفيداً للتنبؤ متى سيتشكل الندى أو الضباب، وكذلك لفهم إمكانية نمو العفن في الأماكن المغلقة."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Taupunkt ist die Temperatur, bei der Feuchtigkeit in der Luft zu Tröpfchen zu kondensieren beginnt. Dies ist ein nützliches Maß für die Vorhersage, wann sich Tau oder Nebel bilden wird, sowie für das Verständnis des Potenzials für Schimmelbildung in Innenräumen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το σημείο δροσιάς είναι η θερμοκρασία στην οποία το υγρασία στον αέρα αρχίζει να πυκνώνεται σε σταγόνες. Είναι μια χρήσιμη μέτρηση για την πρόβλεψη πότε θα δημιουργηθεί δροσιά ή ομίχλη, καθώς και για την κατανόηση της δυνατότητας ανάπτυξης μυκήτων σε εσωτερικούς χώρους."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dew point is the temperature at which moisture in the air begins to condense into droplets. It's a useful measure for predicting when dew or fog will form, as well as for understanding the potential for mold growth in indoor spaces."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El punto de rocío es la temperatura a la cual la humedad del aire comienza a condensarse en gotitas. Es una medida útil para predecir cuándo se formará rocío o niebla, así como para comprender el potencial de crecimiento de moho en los espacios interiores."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نقطه شبنم یا دماییه که رطوبت هوا شروع به تبخیر و تشکیل قطره می‌کنه. برای پیش‌بینی تشکیل شبنم یا مه مفیده و برای درک قابلیت رشد کپک در فضاهای داخلی."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le point de rosée est la température à laquelle l'humidité de l'air commence à se condenser en gouttelettes. C'est une mesure utile pour prédire quand de la rosée ou du brouillard se formera, ainsi que pour comprendre le potentiel de croissance de moisissures dans les espaces intérieurs."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "נקודת הטל היא הטמפרטורה שבה הלחות באוויר מתחילה להמרגז לטיפות. זו מדד שימושי לחיזוי מתי יהיה טל או אבך, כמו גם להבנת הפוטנציאל לגידול עובש במרחבים פנימיים."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ओस बिंदु वह तापमान है जिस पर हवा में नमी बूंदों में संघनित होने लगती है। यह भविष्यवाणी करने के लिए एक उपयोगी उपाय है कि कब ओस या कोहरा बनेगा, साथ ही इनडोर स्थानों में मोल्ड के विकास की क्षमता को समझने के लिए।"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il punto di rugiada è la temperatura alla quale l'umidità nell'aria inizia a condensarsi in goccioline. È una misura utile per prevedere quando si formerà la rugiada o la nebbia, nonché per comprendere il potenziale di crescita della muffa negli spazi interni."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "露点は、空気中の水分が凝縮して水滴になり始める温度です。これは、いつ露や霧が発生するかを予測したり、屋内空間でカビが発生する可能性を理解したりするのに役立つ尺度です。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이슬점은 공기 중의 수분이 물방울로 응축되기 시작하는 온도입니다. 이슬이나 안개가 형성되는 시기를 예측하고 실내 공간에서 곰팡이가 자랄 가능성을 이해하는 데 유용한 측정입니다."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het dauwpunt is de temperatuur waarbij vocht in de lucht begint te condenseren tot druppeltjes. Het is een nuttige maatstaf om te voorspellen wanneer zich dauw of mist zal vormen, en om inzicht te krijgen in de kans op schimmelgroei in binnenruimtes."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O ponto de orvalho é a temperatura na qual a umidade do ar começa a se condensar em gotículas. É uma medida útil para prever quando o orvalho ou a névoa se formará, bem como para entender o potencial de crescimento de fungos em espaços internos."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Точка росы – это температура, при которой влага из воздуха начинает конденсироваться в капли. Это полезная мера для прогнозирования образования росы или тумана, а также для понимания возможности роста плесени в помещениях."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จุดน้ำค้างคืออุณหภูมิที่ความชื้นในอากาศเริ่มทรงเป็นหยดน้ำ. มันเป็นเครื่องวัดที่มีประโยชน์สำหรับการพยากรณ์เมื่อความชื้นหรือหมอกจะเกิดขึ้น, รวมถึงสำหรับการทำความเข้าใจถึงโอกาสในการเจริญเติบโตของราในพื้นที่ภายใน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çiy noktası, havadaki nemin damlacıklar halinde yoğunlaşmaya başladığı sıcaklıktır. Çiy veya sisin ne zaman oluşacağını tahmin etmek ve iç mekanlarda küf oluşumu potansiyelini anlamak için yararlı bir önlemdir."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "露点是空气中的水分开始凝结成液滴的温度。这是预测何时会形成露水或雾气以及了解室内空间霉菌生长潜力的有用指标。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "露點是空氣中的濕氣凝結成水滴的溫度。它對於預測露水或霧的形成很有用，也有助於了解室內空間中霉菌生長的潛力。"
+          }
+        }
+      }
+    },
+    "Get up to 15 days forecast" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "احصل على تنبؤ لمدة 15 يوم"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erhalten Sie eine Prognose für bis zu 15 Tage"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποκτήστε πρόγνωση έως 15 ημερών"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get up to 15 days forecast"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtenga un pronóstico de hasta 15 días"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دریافت تا ۱۵ روز پیش‌بینی"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtenez jusqu'à 15 jours de prévisions"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "קבל תחזית של עד 15 ימים"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 दिनों तक का पूर्वानुमान प्राप्त करें"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottieni previsioni fino a 15 giorni"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大 15 日間の天気予報を取得する"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최대 15일 예측 보기"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krijg tot 15 dagen voorspelling"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtenha uma previsão de até 15 dias"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Получите прогноз на 15 дней"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รับพยากรณ์อากาศสูงสุด 15 วัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 güne kadar tahmin alın"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "获取长达 15 天的预报"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "獲取多達15天的預報"
+          }
+        }
+      }
+    },
+    "Humidity" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرطوبة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feuchtigkeit"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υγρασία"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humidity"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humedad"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رطوبت"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humidité"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "לחות"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नमी"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umidità"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "湿度"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "습기"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vochtigheid"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umidade"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Влажность"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความชื้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nem"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "湿度"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "濕度"
+          }
+        }
+      }
+    },
+    "HUMIDITY.ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرطوبة هي كمية البخار في الهواء، ويمكن أن يكون لها تأثير كبير على مدى شعورنا بالراحة. الرطوبة العالية قد تجعلنا نشعر بالتلزق وعدم الراحة، بينما الرطوبة المنخفضة قد تجفف بشرتنا والجهاز التنفسي. الرطوبة النسبية هي كمية الرطوبة في الهواء مقارنةً بالحد الأقصى الذي يمكن للهواء احتواؤه عند درجة حرارة معينة. لهذا السبب غالبًا ما تشعر بالأيام الرطبة أكثر اختناقًا عند ارتفاع درجة الحرارة."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feuchtigkeit ist die Menge an Feuchtigkeit in"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η υγρασία είναι η ποσότητα της υγρασίας στον αέρα, και μπορεί να έχει μεγάλη επίδραση στο πόσο άνετα αισθανόμαστε. Υψηλή υγρασία μπορεί να μας κάνει να αισθανόμαστε κολλώδη και άβολα, ενώ χαμηλή υγρασία μπορεί να ξηραίνει το δέρμα μας και το αναπνευστικό μας σύστημα. Η σχετική υγρασία είναι η ποσότητα της υγρασίας στον αέρα σε σύγκριση με τη μέγιστη ποσότητα που θα μπορούσε να κρατήσει ο αέρας σε μια δεδομένη θερμοκρασία. Γι' αυτό οι υγρές ημέρες συχνά αισθάνονται πιο καταπιεστικές όταν η θερμοκρασία είναι υψηλή."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humidity is the amount of moisture in the air, and it can have a big impact on how comfortable we feel. High humidity can make us feel sticky and uncomfortable, while low humidity can dry out our skin and respiratory system. Relative humidity is the amount of moisture in the air compared to the maximum amount that the air could hold at a given temperature. This is why humid days often feel more oppressive when the temperature is high."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La humedad es la cantidad de humedad en"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رطوبت میزان بخار آب موجود در هواست که می‌تونه تاثیر زیادی روی احساس راحتی ما داشته باشه. رطوبت بالا می‌تونه احساس چسبناکی به ما بده در حالی که رطوبت پایین می‌تونه پوست و دستگاه تنفسی ما رو خشک کنه. رطوبت نسبی میزان بخار آب موجود در هوا نسبت به حداکثر میزانی که هوا در دمای مشخص می‌تونه نگه داره رو نشون میده. به همین دلیله که روزای رطوبت بالا اغلب احساس خفگی بیشتری وقتی که هوا گرمه دارن."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'humidité est la quantité d'humidité dans"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הלחות היא כמות הלחות באוויר, והיא יכולה להשפיע באופן משמעותי על כמה אנחנו מרגישים בנוח. לחות גבוהה יכולה לגרום לנו להרגיש דביקים ולא בנוח, בעוד לחות נמוכה יכולה לייבש את עורנו ואת מערכת הנשימה שלנו. לחות יחסית היא כמות הלחות באוויר לעומת הכמות המרבית שהאוויר יכול להחזיק בטמפרטורה מסוימת. זו הסיבה שימים לחים לעיתים מרגישים יותר מעציבים כאשר הטמפרטורה גבוהה."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नमी आंतरिक आर्द्रता की मात्रा है"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'umidità è la quantità di umidità in"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "湿度は..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "습도는 ...의 수분 양입니다"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vochtigheid is de hoeveelheid vocht in"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A umidade é a quantidade de umidade em"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Влажность - это количество влаги в"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความชื้นคือปริมาณน้ำในอากาศ, และสามารถส่งผลกระทบต่อความสบายของเรา. ความชื้นสูงสามารถทำให้เรารู้สึกหนึบและไม่สบาย, ในขณะที่ความชื้นต่ำสามารถทำให้ผิวและระบบการหายใจของเราแห้ง. ความชื้นสัมพัทธ์คือปริมาณน้ำในอากาศเทียบกับปริมาณสูงสุดที่อากาศจะสามารถถือได้ที่อุณหภูมิที่กำหนด. นี่คือเหตุผลที่วันที่มีความชื้นมักจะรู้สึกยิ่งขึ้นเมื่ออุณหภูมิสูง."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nem, havadaki nem miktarıdır"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "湿度是指空气中的湿气量"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "濕度是空氣中的水分含量，它對我們的舒適度有很大影響。高濕度會讓我們感到悶熱和不舒服，而低濕度則會使我們的皮膚和呼吸系統變乾燥。相對濕度是空氣中水分的量與在給定溫度下空氣最大可容納水分量之間的比較。這就是為什麼在溫度高時，潮濕的日子常常讓人感到更壓抑。"
+          }
+        }
+      }
+    },
+    "Precipitation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الهطول"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niederschlag"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υετός"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precipitation"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precipitación"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بارش"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Précipitation"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "משקעים"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वर्षण"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precipitazione"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "降水量"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강수량"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neerslag"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precipitação"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осадки"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "น้ำฝน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yağış"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沉淀"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "降水"
+          }
+        }
+      }
+    },
+    "Pressure" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الضغط"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Druck"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πίεση"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pressure"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Presión"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فشار هوا"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pression "
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "לחץ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "दबाव"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pressione dell'aria"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気圧"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기압"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luchtdruk"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pressão do ar"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Давление"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความดัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basınç"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "压力"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "氣壓"
+          }
+        }
+      }
+    },
+    "PRESSURE.ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الضغط الجوي، المعروف أيضًا باسم الضغط الجوي، هو القوة غير المرئية التي تحيط بنا وتحافظ على ثبات أقدامنا على الأرض. إنه وزن جميع جزيئات الهواء فوقنا وهي تضغط على أجسادنا. يتم قياس الضغط الجوي عادةً بوحدات مثل الباسكال أو المليبار أو بوصات زئبقية، ويمكن أن يكون له تأثير كبير على أنماط الطقس لدينا. غالبًا ما يعني ارتفاع الضغط الجوي سماء صافية وطقس مشمس، بينما قد يجلب انخفاض الضغط الجوي العواصف والهطول."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luftdruck, auch bekannt als Atmosphärendruck, ist die unsichtbare Kraft, die uns umgibt und unsere Füße fest auf dem Boden hält. Es ist das Gewicht aller Luftmoleküle über uns, das auf unsere Körper drückt. Luftdruck wird typischerweise in Einheiten wie Pascal, Millibar oder Zoll Quecksilber gemessen und kann einen großen Einfluss auf unsere Wettermuster haben. Hoher Luftdruck bedeutet oft klaren Himmel und schönes Wetter, während niedriger Luftdruck Stürme und Niederschläge bringen kann."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ατμοσφαιρική πίεση, γνωστή και ως ατμοσφαιρική πίεση, είναι η αόρατη δύναμη που μας περιβάλλει και μας κρατάει σταθερά στο έδαφος. Είναι το βάρος όλων των μορίων του αέρα πάνω από εμάς που πιέζουν τα σώματά μας. Η ατμοσφαιρική πίεση μετράται συνήθως σε μονάδες όπως οι pascals, millibars, ή ίντσες μερκουρίου, και μπορεί να έχει μεγάλη επίδραση στα μετεωρολογικά μας πρότυπα. Υψηλή ατμοσφαιρική πίεση συχνά σημαίνει ξαστερός ουρανός και καλός καιρός, ενώ χαμηλή ατμοσφαιρική πίεση μπορεί να φέρει καταιγίδες και βροχόπτωση."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Air pressure, also known as atmospheric pressure, is the invisible force that surrounds us and keeps our feet firmly planted on the ground. It's the weight of all the air molecules above us pressing down on our bodies. Air pressure is typically measured in units such as pascals, millibars, or inches of mercury, and it can have a big impact on our weather patterns. High air pressure often means clear skies and fair weather, while low air pressure can bring storms and precipitation."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La presión del aire, también conocida como presión atmosférica, es la fuerza invisible que nos rodea y mantiene nuestros pies firmemente plantados en el suelo. Es el peso de todas las moléculas de aire que nos presionan desde arriba. La presión del aire se mide generalmente en unidades como pascals, milibares, o pulgadas de mercurio, y puede tener un gran impacto en nuestros patrones climáticos. Una alta presión del aire suele significar cielos despejados y tiempo justo, mientras que una baja presión del aire puede traer tormentas y precipitaciones."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فشار هوا یا فشار جوی نیروی نامرئی است که ما رو احاطه کرده و پاهامون رو محکم روی زمین نگه میداره. وزن همه مولکول‌های هوایی که بالای سر ما هستن و روی بدنمون فشار وارد می‌کنن. فشار هوا معمولا بر حسب واحدهایی مثل پاسکال، میلی‌بار یا اینچ جیوه اندازه‌گیری می‌شه و می‌تونه تاثیر زیادی روی الگوهای آب و هوایی داشته باشه. فشار هوای بالا معمولا به معنای آسمون صاف و هوای مطبوعه در حالی که فشار هوای پایین می‌تونه بارش و بارندگی بیاره."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La pression atmosphérique, également connue sous le nom de pression atmosphérique, est la force invisible qui nous entoure et nous maintient fermement ancrés au sol. Ce sont le poids de toutes les molécules d'air au-dessus de nous qui pressent sur nos corps. La pression atmosphérique est généralement mesurée en unités telles que les pascals, les millibars ou les pouces de mercure, et elle peut avoir un grand impact sur nos conditions météorologiques. Une haute pression atmosphérique signifie souvent des ciels dégagés et un temps clément, tandis qu'une basse pression atmosphérique peut apporter des tempêtes et des précipitations."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "לחץ האוויר, הידוע גם בשם לחץ אטמוספרי, הוא הכוח הבלתי נראה שמקיף אותנו ומאפשר לרגלינו להישאר מוצמדות לקרקע. זהו משקל כל חלקיקי האוויר מעלינו שמלחיצים על הגוף שלנו. לחץ האוויר מודד בדרך כלל ביחידות כמו פסקאל, מיליברים או אינצ' של כסף, והוא יכול להשפיע באופן משמעותי על תבניות המזג אוויר שלנו. לחץ אוויר גבוה משמעו שמים בהירים ומזג אוויר יציב, בעוד לחץ אוויר נמוך יכול להביא סערות ומשקעים."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वायु दाब, जिसे वायुमंडलीय दाब के नाम से भी जाना जाता है, हमें घेरे हुए अदृश्य बल है जो हमारे पैरों को जमीन पर मजबूती से रखता है। यह हमारे शरीर पर दबाव डालने के लिए हमारे ऊपर के सभी वायु अणुओं का वजन है। वायु दाब को आमतौर पर पास्कल, मिलीबार, या पारा की इंच में मापा जाता है, और इसका हमारे मौसम पैटर्न पर बड़ा प्रभाव पड़ सकता है। उच्च वायु दाब का मतलब होता है स्पष्ट आकाश और उचित मौसम, जबकि निम्न वायु दाब स्टॉर्म और वर्षा ला सकता है।"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La pressione dell'aria, nota anche come pressione atmosferica, è la forza invisibile che ci circonda e ci mantiene saldamente ancorati al suolo. È il peso di tutte le molecole d'aria sopra di noi che premono sui nostri corpi. La pressione dell'aria è tipicamente misurata in unità come pascal, millibar o pollici di mercurio, ed ha un grande impatto sui nostri schemi meteorologici. Alta pressione dell'aria spesso significa cieli sereni e tempo bello, mentre bassa pressione dell'aria può portare tempeste e precipitazioni."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気圧、別名大気圧は、私たちを固く地面に押し付けている目に見えない力です。それは私たちの上にある全ての空気分子の重さが私たちの身体に押し付けるものです。気圧は通常、パスカル、ミリバール、または水銀のインチなどの単位で測定され、私たちの天候パターンに大きな影響を及ぼすことができます。高気圧は通常、晴天と良好な天候を意味し、低気圧は嵐と降水をもたらすことができます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기압, 즉 대기압은 우리 주변을 둘러싸고 있는 보이지 않는 힘으로, 우리의 발을 바닥에 단단히 고정시킵니다. 이것은 위에서 눌러오는 모든 공기 분자의 무게입니다. 기압은 일반적으로 파스칼, 밀리바, 수은 인치와 같은 단위로 측정되며, 날씨 패턴에 큰 영향을 미칩니다. 높은 기압은 대체로 맑은 하늘과 공정한 날씨를 의미하며, 낮은 기압은 폭풍과 강수를 가져올 수 있습니다."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luchtdruk, ook bekend als atmosferische druk, is de onzichtbare kracht die ons omringt en onze voeten stevig op de grond houdt. Het is het gewicht van alle luchtmoleculen boven ons die op onze lichamen drukken. Luchtdruk wordt typisch gemeten in eenheden zoals pascal, millibar, of inches kwik, en het kan een grote impact hebben op onze weerspatronen. Hoge luchtdruk betekent vaak heldere luchten en eerlijk weer, terwijl lage luchtdruk stormen en neerslag kan brengen."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A pressão do ar, também conhecida como pressão atmosférica, é a força invisível que nos rodeia e mantém nossos pés firmemente plantados no chão. É o peso de todas as moléculas de ar acima de nós pressionando nossos corpos. A pressão do ar é tipicamente medida em unidades como pascals, milibares, ou polegadas de mercúrio, e pode ter um grande impacto em nossos padrões de tempo. Alta pressão do ar muitas vezes significa céus claros e tempo justo, enquanto baixa pressão do ar pode trazer tempestades e precipitação."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Атмосферное давление, также известное как атмосферное давление, - это невидимая сила, которая окружает нас и удерживает наши ноги крепко на земле. Это вес всех воздушных молекул над нами, давящих на наши тела. Атмосферное давление обычно измеряется в единицах, таких как паскали, миллибары или дюймы ртутного столба, и оно может сильно влиять на наши погодные образцы. Высокое атмосферное давление часто означает ясное небо и хорошую погоду, в то время как низкое атмосферное давление может принести штормы и осадки."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความดันอากาศ หรือที่รู้จักกันในนามของความดันบรรยากาศ เป็นกำลังไม่สามารถเห็นได้ที่ล้อมรอบเรา และทำให้เรายืนอยู่บนพื้นโลกได้ นั่นคือน้ำหนักของโมเลกุลอากาศทั้งหมดที่อยู่เหนือเรากดลงบนร่างกายของเรา ความดันอากาศมักจะถูกวัดด้วยหน่วยเช่น ปาสคาล มิลลิบาร์ หรือ นิ้วปรอท และมีผลกระทบต่อรูปแบบอากาศของเรา ความดันอากาศสูงมักหมายถึงท้องฟ้าที่สว่างและอากาศดี ในขณะที่ความดันอากาศต่ำอาจนำไปสู่พายุและฝนตก"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hava basıncı, aynı zamanda atmosfer basıncı olarak bilinir, etrafımızı saran ve ayaklarımızın sıkıca yerde kalmasını sağlayan görünmez bir kuvvettir. Bu, üzerimizdeki tüm hava moleküllerinin ağırlığının vücudumuz üzerine basmasıdır. Hava basıncı genellikle pascal, milibar veya civa inçi gibi birimlerde ölçülür ve hava durumlarımız üzerinde büyük bir etkisi olabilir. Yüksek hava basıncı genellikle açık gökyüzü ve güzel hava anlamına gelirken, düşük hava basıncı fırtınalar ve yağış getirebilir."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "气压，也称为大气压，是围绕我们的无形力量，使我们的脚牢牢地植根在地上。这是所有在我们上方的空气分子的重量压在我们的身体上。气压通常用帕斯卡、毫巴或汞英寸等单位测量，它可以对我们的天气模式产生很大影响。高气压通常意味着晴朗的天空和公正的天气，而低气压可能带来风暴和降水。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "氣壓，也被稱為大氣壓力，是我們周圍的無形力量，使我們的腳牢牢地踩在地上。它是上方所有空氣分子對我們身體的壓力。氣壓通常用帕斯卡、毫巴或汞柱高度等單位來測量，它對我們的天氣模式有很大影響。高氣壓通常意味著晴朗的天空和好天氣，而低氣壓可能帶來風暴和降水。"
+          }
+        }
+      }
+    },
+    "UV Index" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مؤشر الأشعة فوق البنفسجية"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV-Index"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV Δείκτης"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV Index"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Índice UV"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شاخص فرابنفش"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice UV"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מדד קרני ה-UV"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यूवी सूचकांक"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice UV"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV指数"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV 지수"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV-index"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice UV"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Индекс ультрафиолета"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดัชนีรังสี UV"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV Endeksi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV指数"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫外線指數"
+          }
+        }
+      }
+    },
+    "UV.ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأشعة فوق البنفسجية غير مرئية وهي إشعاع ضوئي شمسي يؤثر على صحتنا ومحيطنا. يقيس مؤشر الأشعة فوق البنفسجية في تطبيق الطقس قوة الشمس، حيث تعني الأرقام الأعلى مزيدًا من المخاطر. قم بحماية نفسك بارتداء الكريم الواقي من الشمس والنظارات الشمسية والقبعات، والبحث عن الظل أثناء ساعات ذروة الأشعة فوق البنفسجية (10 صباحًا حتى 4 مساءً). تمتع بالهواء الطلق بأمان!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (Ultraviolett) ist unsichtbare Sonnenstrahlung, die unsere Gesundheit und Umgebung beeinflusst. Der UV-Index in Ihrer Wetter-App misst die Sonnenstärke, wobei höhere Zahlen mehr Risiko bedeuten. Schützen Sie sich durch das Tragen von Sonnencreme, Sonnenbrillen und Hüten und suchen Sie während der Spitzen-UV-Stunden (10 bis 16 Uhr) Schatten. Bleiben Sie sicher und genießen Sie die Natur!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το UV (Υπεριώδης) είναι αόρατη ακτινοβολία του ηλίου που επηρεάζει την υγεία μας και το περιβάλλον μας. Ο δείκτης UV στην εφαρμογή καιρού σας μετρά την ισχύ του ηλίου, με υψηλότερους αριθμούς να σημαίνουν μεγαλύτερο κίνδυνο. Προστατευτείτε φορώντας αντηλιακό, γυαλιά ηλίου και καπέλα, και αναζητώντας σκιά κατά τις ώρες πικ UV (10 π.μ. έως 4 μ.μ.). Μείνετε ασφαλείς και απολαύστε τον υπαίθριο χώρο!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (Ultraviolet) is invisible sunlight radiation that affects our health and surroundings. The UV index in your weather app measures the sun's strength, with higher numbers meaning more risk. Protect yourself by wearing sunscreen, sunglasses, and hats, and seeking shade during peak UV hours (10 a.m. to 4 p.m.). Stay safe and enjoy the outdoors!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (Ultravioleta) es una radiación solar invisible que afecta nuestra salud y entorno. El índice UV en tu aplicación de clima mide la fuerza del sol, siendo números más altos un mayor riesgo. Protégete usando protector solar, gafas de sol y sombreros, y buscando sombra durante las horas pico de UV (de 10 a.m. a 4 p.m.). ¡Mantente seguro y disfruta del aire libre!"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "پرتو ماوراء بنفش UV نور ماوراء بنفش نامرئی است که بر سلامتی و محیط اطراف ما تأثیر می‌گذارد. شاخص UV در برنامه آب و هوای شما قدرت خورشید را اندازه‌گیری می‌کند، اعداد بالاتر به معنای خطر بیشتر است. از خودتان با استفاده از کرم ضد آفتاب، عینک آفتابی و کلاه، و پناه گرفتن در سایه در ساعات اوج UV (۱۰ صبح تا ۴ بعدازظهر) محافظت کنید. مراقب باشید و از طبیعت لذت ببرید!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le UV (Ultraviolet) est un rayonnement solaire invisible qui affecte notre santé et notre environnement. L'indice UV dans votre application météo mesure la force du soleil, des chiffres plus élevés signifiant plus de risques. Protégez-vous en portant de la crème solaire, des lunettes de soleil, des chapeaux et en recherchant l'ombre pendant les heures de pointe des UV (de 10 h à 16 h). Restez en sécurité et profitez de l'extérieur!"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (אולטרה-סגול) הוא קרני שמש בלתי נראים המשפיעים על בריאותנו והסביבה שלנו. מדד ה-UV באפליקציה שלך מודד את חוזק השמש, כאשר מספרים גבוהים יותר מסמלים סיכון גבוה יותר. הגן על עצמך על ידי שמירה על קרם הגנה, משקפי שמש, וכובעים, וחפש צל בשעות השיא של קרני UV (10:00 עד 16:00). נשאר בטוח ותהנה מהחיצונים!"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यूवी (पराबैनिक) अदृश्य सूर्य प्रकाश विकिरण है जो हमारे स्वास्थ्य और परिवेश पर प्रभाव डालता है। आपके मौसम ऐप में यूवी सूचकांक सूर्य की शक्ति को मापता है, जिसमें अधिक संख्याओं का मतलब अधिक जोखिम होता है। अपने आप को सुरक्षित रखने के लिए सनस्क्रीन, धूप के चश्मे, और टोपियां पहनें, और पीक यूवी घंटों में धूप से बचें।"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (Ultravioletto) è una radiazione solare invisibile che influenza la nostra salute e l'ambiente circostante. L'indice UV nella tua app meteo misura la forza del sole, con numeri più alti che indicano più rischio. Proteggi te stesso indossando crema solare, occhiali da sole, cappelli, e cercando ombra durante le ore di picco UV (10:00 - 16:00). Stai al sicuro e goditi l'aria aperta!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV（紫外線）は、私たちの健康と環境に影響を与える見えない太陽放射です。天気アプリのUV指数は太陽の強さを測定し、数字が大きいほどリスクが高くなります。日焼け止め、サングラス、帽子を着用し、UVが最も強い時間（午前10時から午後4時）には日陰に避難することで自己防御してください。安全にアウトドアを楽しんでください！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (자외선)는 우리의 건강과 주변 환경에 영향을 미치는 보이지 않는 태양광 방사선입니다. 날씨 앱의 UV 지수는 태양의 강도를 측정하며, 숫자가 높을수록 위험이 높아집니다. 자외선 차단제, 선글라스, 모자를 착용하고, 자외선이 가장 강한 시간(오전 10시에서 오후 4시) 동안 그늘을 찾는 것으로 자신을 보호하세요. 안전하게 야외 활동을 즐기세요!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (ultraviolet) is onzichtbare zonnestraling die onze gezondheid en omgeving beïnvloedt. De UV-index in uw weer-app meet de sterkte van de zon, met hogere cijfers die meer risico betekenen. Bescherm jezelf door zonnebrandcrème, zonnebril, en hoeden te dragen, en zoek schaduw tijdens piek UV-uren (10:00 tot 16:00 uur). Blijf veilig en geniet van het buitenleven!"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (Ultravioleta) é a radiação solar invisível que afeta nossa saúde e ambiente. O índice UV no seu aplicativo de clima mede a força do sol, com números mais altos significando mais risco. Proteja-se usando protetor solar, óculos de sol e chapéus, e procurando sombra durante as horas de pico de UV (10h às 16h). Mantenha-se seguro e aproveite o ar livre!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "УФ (ультрафиолет) - это невидимое солнечное излучение, которое влияет на наше здоровье и окружающую среду. УФ-индекс в вашем приложении для прогноза погоды измеряет силу солнца, при этом большие числа означают больший риск. Защитите себя, надев крем от загара, солнечные очки и шляпы, и ищите тень в часы пика УФ-излучения (с 10 утра до 4 дня). Будьте в безопасности и наслаждайтесь на открытом воздухе!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รังสี UV (อัลตราไวโอเลต) เป็นรังสีแสงอาทิตย์ที่มองไม่เห็นที่สมองเราและมีผลต่อสุขภาพและสิ่งแวดล้อมรอบตัว เดชนีรังสี UV ในแอปพลิเคชันสภาพอากาศของคุณจะวัดความเข้มของแสงอาทิตย์โดยมีค่าที่สูงขึ้นหมายความว่ามีความเสี่ยงมากขึ้น ปกป้องตัวเองด้วยการใส่ครีมกันแดด แว่นกันแดด และหมวก และหาเงาในช่วงเวลาที่รังสี UV สูงสุด (10 โมงเช้าถึง 4 โมงเย็น) อยู่ภายนอกและเพลิดเพลินไปกับกิจกรรมกลางแจ้ง!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV (Ultraviyole) sağlığımızı ve çevremizi etkileyen görünmez güneş ışığı radyasyonudur. Hava durumu uygulamanızdaki UV indeksi güneşin gücünü ölçer, yüksek sayılar daha fazla risk anlamına gelir. Kendinizi korumak için güneş kremi, güneş gözlüğü ve şapka giyin ve UV'nin en yoğun olduğu saatlerde (sabah 10'dan öğleden sonra 4'e kadar) gölgelik arayın. Güvende kalın ve dışarıda eğlenin!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV(紫外线)是影响我们的健康和周围环境的不可见阳光辐射。您的天气应用中的紫外线指数测量太阳的强度，数字越高，风险越大。通过涂抹防晒霜，佩戴太阳镜和帽子，并在紫外线高峰时段(上午10点至下午4点)寻找阴影来保护自己。保持安全，享受户外活动！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫外線（UV）是一種對我們的健康和周圍環境有影響的不可見太陽輻射。您的天氣應用中的紫外線指數衡量太陽的強度，數字越高意味著風險越大。請謹慎保護自己，涂抹防曬霜，戴太陽鏡和帽子，在高紫外線時段（上午10點至下午4點）尋找陰涼處。請保持安全並享受戶外活動！"
+          }
+        }
+      }
+    },
+    "Visibility" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرؤية"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sichtbarkeit"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ορατότητα"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visibility"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visibilidad"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دید"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vue"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ראות"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "दृश्यता"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visibilità"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "視程"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "눈에 보임"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zichtbaarheid"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visibilidade"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видимость"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความมองเห็น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Görünürlük"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能见度"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能見度"
+          }
+        }
+      }
+    },
+    "VISIBILITY.ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرؤية هي المدى الذي يمكننا رؤيته عبر الهواء، ويمكن أن تتأثر بعوامل مختلفة مثل الضباب أو الدخان. يتم قياس الرؤية عادةً بالأميال أو الكيلومترات، وهي عامل مهم للسفر الجوي والقيادة والأنشطة في الهواء الطلق."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sichtbarkeit ist, wie weit wir durch die Luft sehen können, und sie kann von einer Vielzahl von Faktoren wie Dunst, Nebel oder Rauch beeinträchtigt werden. Sichtbarkeit wird typischerweise in Meilen oder Kilometern gemessen, und es ist ein wichtiger Faktor für den Flugverkehr, das Fahren und Outdoor-Aktivitäten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ορατότητα είναι πόσο μακριά μπορούμε να δούμε μέσα από τον αέρα, και μπορεί να επηρεαστεί από ποικίλους παράγοντες όπως η ομίχλη, η ομίχλη ή το καπνό. Η ορατότητα συνήθως μετράται σε μίλια ή χιλιόμετρα, και είναι ένας σημαντικός παράγοντας για την αεροπορική ταξιδιωτική, οδήγηση και υπαίθριες δραστηριότητες."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visibility is how far we can see through the air, and it can be impacted by a variety of factors such as haze, fog, or smoke. Visibility is typically measured in miles or kilometers, and it's an important factor for air travel, driving, and outdoor activities."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La visibilidad es hasta dónde podemos ver a través del aire, y puede ser impactada por una variedad de factores como la bruma, la niebla, o el humo. La visibilidad se mide normalmente en millas o kilómetros, y es un factor importante para el viaje aéreo, la conducción, y las actividades al aire libre."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دیدپذیری چقدر دور می‌توانیم از طریق هوا ببینیم و می‌تواند تحت تأثیر عوامل متنوعی مانند غبار، مه و دود قرار بگیرد. دیدپذیری معمولاً به مایل یا کیلومتر اندازه گیری می شود و عامل مهمی برای سفرهای هوایی، رانندگی و فعالیت های خارج از منزل است."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La visibilité est la distance à laquelle nous pouvons voir à travers l'air, et elle peut être impactée par une variété de facteurs tels que la brume, le brouillard ou la fumée. La visibilité est généralement mesurée en miles ou en kilomètres, et c'est un facteur important pour le vol aérien, la conduite et les activités de plein air."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הראות היא כמה אנו יכולים לראות דרך האוויר, והיא יכולה להשפיע מגוון של גורמים כמו ערפל, עשן, או אוויר מעשני. הראות מודדת בדרך כלל במיילים או קילומטרים, והיא משנה חשובה לנסיעה באוויר, נהיגה, ופעילויות חיצוניות."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "दृश्यता यह है कि हम हवा के माध्यम से कितनी दूर तक देख सकते हैं, और यह धुंध, कोहरे या धुएं जैसे विभिन्न कारकों से प्रभावित हो सकती है। दृश्यता आमतौर पर मील या किलोमीटर में मापी जाती है, और यह हवाई यात्रा, ड्राइविंग और बाहरी गतिविधियों के लिए एक महत्वपूर्ण कारक है।"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La visibilità è quanto possiamo vedere attraverso l'aria, e può essere influenzata da vari fattori come foschia, nebbia, o fumo. La visibilità è tipicamente misurata in miglia o chilometri, ed è un fattore importante per il volo aereo, la guida, e le attività all'aperto."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "視程とは、空気を通してどれだけ遠くを見ることができるかを指し、ヘイズ、霧、煙などさまざまな要素によって影響を受けることがあります。視程は通常、マイルまたはキロメートルで測定され、航空旅行、運転、アウトドア活動に重要な要素となります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가시성은 우리가 공기를 통해 얼마나 멀리 볼 수 있는지를 나타내며, 이는 안개, 먼지, 연기 등 다양한 요인에 의해 영향을 받을 수 있습니다. 가시성은 일반적으로 마일이나 킬로미터로 측정되며, 항공 여행, 운전, 야외 활동에 중요한 요소입니다."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zichtbaarheid is hoe ver we kunnen zien door de lucht, en het kan worden beïnvloed door verschillende factoren zoals nevel, mist, of rook. Zichtbaarheid wordt meestal gemeten in mijlen of kilometers, en het is een belangrijke factor voor vliegreizen, autorijden, en buitenactiviteiten."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A visibilidade é o quão longe podemos ver através do ar, e pode ser impactada por uma variedade de fatores como neblina, nevoeiro, ou fumaça. A visibilidade é normalmente medida em milhas ou quilômetros, e é um fator importante para o voo aéreo, a condução, e as atividades ao ar livre."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видимость - это то, насколько далеко мы можем видеть через воздух, и она может быть затронута различными факторами, такими как туман, дым или туман. Видимость обычно измеряется в милях или километрах, и это важный фактор для воздушных путешествий, вождения и занятий на открытом воздухе."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความมองเห็นคือระยะที่เราสามารถมองเห็นได้ผ่านอากาศ และสามารถได้รับผลกระทบจากปัจจัยต่าง ๆ เช่น ควันความขุ่น หรือควัน เวลาที่มักจะวัดความมองเห็นคือไมล์หรือกิโลเมตร และเป็นตัวปัจจัยที่สำคัญสำหรับการเดินทางทางอากาศ การขับรถ และกิจกรรมกลางแจ้ง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Görünürlük, havadan ne kadar uzağı görebildiğimizdir ve sis, duman gibi çeşitli faktörlerden etkilenebilir. Görünürlük genellikle mil veya kilometre cinsinden ölçülür ve hava yolculuğu, sürüş ve dış mekan etkinlikleri için önemli bir faktördür."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能见度是我们可以看到的空气中的距离，它可以受到雾霾、雾气或烟雾等各种因素的影响。能见度通常以英里或公里为单位，这对于航空旅行、驾驶和户外活动来说是一个重要的因素。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能見度是指我們可以透過空氣看到的距離，它可能受到霧、霾或煙霧等多種因素的影響。能見度通常以英里或公里衡量，它對於航空、駕駛和戶外活動都是重要因素。"
+          }
+        }
+      }
+    },
+    "Wind" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرياح"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wind"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άνεμος"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wind"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viento"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "باد"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vent"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "רוח"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हवा"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vento"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "風"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "바람"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wind"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vento"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ветер"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลม"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rüzgar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "风"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "風"
+          }
+        }
+      }
+    },
+    "WIND.ABOUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سرعة الرياح هي معدل حركة الهواء خلال الغلاف الجوي، ويمكن أن تتأثر بمجموعة من العوامل مثل درجة الحرارة والضغط والتضاريس. الرياح يمكن أن تكون منعشة في يوم حار، أو يمكن أن تسبب أضرار ودمار أثناء العواصف."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windsnelheid is de snelheid waarmee lucht zich door de atmosfeer verplaatst, en het kan worden beïnvloed door verschillende factoren zoals temperatuur, druk, en terrein. Wind kan een welkome verlichting zijn op een hete dag, of het kan schade en vernieling veroorzaken tijdens een storm."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ταχύτητα του ανέμου είναι η ταχύτητα με την οποία κινείται ο αέρας στην ατμόσφαιρα, και μπορεί να επηρεαστεί από διάφορους παράγοντες όπως η θερμοκρασία, η πίεση, και το έδαφος. Ο άνεμος μπορεί να είναι ευπρόσδεκτος ανακούφιση σε μια ζεστή μέρα, ή μπορεί να προκαλέσει ζημιά και καταστροφή κατά τη διάρκεια μιας καταιγίδας."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windspeed is the rate at which air is moving through the atmosphere, and it can be affected by a variety of factors such as temperature, pressure, and terrain. Wind can be a welcome relief on a hot day, or it can cause damage and destruction during a storm."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La velocidad del viento es la velocidad a la que se mueve el aire a través de la atmósfera, y puede ser afectada por una variedad de factores como la temperatura, la presión, y el terreno. El viento puede ser un alivio bienvenido en un día caluroso, o puede causar daño y destrucción durante una tormenta."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سرعت باد، نرخی است که هوا از لایه‌های جو عبور می‌کند و می‌تواند تحت تاثیر عوامل مختلفی مثل دما، فشار و زمین‌شناسی قرار بگیرد. باد می‌تواند در یک روز گرم نسیم خنکی باشد یا در طوفان موجب خسارت و ویرانی شود."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La vitesse du vent est le taux auquel l'air se déplace à travers l'atmosphère, et elle peut être affectée par divers facteurs tels que la température, la pression, et le terrain. Le vent peut être un soulagement bienvenu par une journée chaude, ou il peut causer des dommages et des destructions pendant une tempête."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מהירות הרוח היא המהירות שבה האוויר מתנהל באטמוספירה, והיא יכולה להשפיע מגוון של גורמים כמו טמפרטורה, לחץ, וגאוגרפיה. הרוח יכולה להקל על יום חם, או לגרום לנזק וחורבן במהלך סערה."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वायु एक महत्वपूर्ण मौसम घटक है, जो यातायात, विमानन, और बहुत सारे अन्य गतिविधियों को प्रभावित करता है। यह अणुओं और बारहबीगा मापनकर्ताओं की गतिशीलता के माध्यम से विभाजित होता है। तेज़ विंद या तेज़ झोंके जन-जीवन को प्रभावित कर सकते हैं, या फिर किसी क्षेत्र में मौसम परिवर्तन का संकेत दे सकते हैं।"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La velocità del vento è la velocità con cui l'aria si muove nell'atmosfera, e può essere influenzata da vari fattori come temperatura, pressione e terreno. Il vento può essere un sollievo gradito in una giornata calda, oppure può causare danni e distruzione durante una tempesta."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "風速は大気を通過する空気の速度であり、温度、圧力、地形などさまざまな要素に影響を受けます。風は暑い日には心地よい安堵感をもたらす一方、嵐の時には被害や破壊を引き起こす可能性があります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "풍속은 공기가 대기를 통해 이동하는 속도이며, 이는 온도, 압력, 지형 등 다양한 요소에 영향을 받을 수 있습니다. 바람은 더운 날에 시원한 안도감을 주거나, 폭풍 중에는 피해와 파괴를 일으킬 수 있습니다."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windsnelheid is de snelheid waarmee lucht zich door de atmosfeer verplaatst, en het kan worden beïnvloed door verschillende factoren zoals temperatuur, druk, en terrein. Wind kan een welkome verlichting zijn op een hete dag, of het kan schade en vernieling veroorzaken tijdens een storm."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A velocidade do vento é a taxa na qual o ar está se movendo através da atmosfera, e pode ser afetada por uma variedade de fatores, como temperatura, pressão, e terreno. O vento pode ser um alívio bem-vindo em um dia quente, ou pode causar danos e destruição durante uma tempestade."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скорость ветра - это скорость, с которой воздух движется по атмосфере, и она может зависеть от различных факторов, таких как температура, давление, и рельеф. Ветер может быть приятным облегчением в жаркий день, или он может вызвать ущерб и разрушение во время шторма."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความเร็วลมคืออัตราที่ที่อากาศเคลื่อนที่ในบรรยากาศ ซึ่งสามารถถูกส่งผลโดยปัจจัยต่าง ๆ เช่น อุณหภูมิ, ความดัน, และภูมิประเทศ ลมสามารถเป็นการบรรเทาที่ยินดีต้อนรับในวันที่ร้อนหรือสามารถทำให้เกิดความเสียหายและการทำลายระหว่างพายุ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rüzgar hızı, hava durumunun atmosferde hareket etme oranıdır, ve sıcaklık, basınç ve arazi gibi çeşitli faktörlerden etkilenebilir. Rüzgar, sıcak bir günde hoş bir rahatlama olabilir veya bir fırtınada hasar ve yıkım yapabilir."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "风速是空气在大气中移动的速度；它可能受温度、压力和地形等多种因素影响。风可以在热天时提供欢迎的缓解，或者在风暴期间造成破坏和毁坏。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "風速是空氣通過大氣層中移動的速度，它受溫度、壓力和地形等多種因素的影響。風可以在炎熱的日子提供涼爽，也可以在風暴中造成損壞和破壞。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

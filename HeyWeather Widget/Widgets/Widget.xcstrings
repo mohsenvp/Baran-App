@@ -1,0 +1,435 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "3b3GtP" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمایش نام شهر"
+          }
+        }
+      }
+    },
+    "4a299O" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "انتخاب شهر"
+          }
+        }
+      }
+    },
+    "4KqOgS" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هر دو"
+          }
+        }
+      }
+    },
+    "7yWo4k" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شهر"
+          }
+        }
+      }
+    },
+    "8pxgjc" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمایش احساس دما"
+          }
+        }
+      }
+    },
+    "AfGLf8" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "پس‌زمینه"
+          }
+        }
+      }
+    },
+    "btZe2P" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سبک ویجت"
+          }
+        }
+      }
+    },
+    "CkayDC" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "درست"
+          }
+        }
+      }
+    },
+    "cqBZLe" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ظاهر ویجت"
+          }
+        }
+      }
+    },
+    "CV9n6P" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سبک ویجت"
+          }
+        }
+      }
+    },
+    "g6gf5h-4KqOgS" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "${count} گزینه با «هر دو» تطابق داره."
+          }
+        }
+      }
+    },
+    "g6gf5h-shVqhr" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "${count} گزینه با «روزانه» تطابق داره."
+          }
+        }
+      }
+    },
+    "g6gf5h-vIjtP1" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "${count} گزینه با «ساعتی» تطابق داره."
+          }
+        }
+      }
+    },
+    "gCm11L" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوع پیش‌بینی"
+          }
+        }
+      }
+    },
+    "GDPPmG" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "پیکربندی ویجت سفارشی‌سازی‌پذیر"
+          }
+        }
+      }
+    },
+    "hutJcD" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "یکی از شهرهای مورد علاقه تون رو انتخاب کنید."
+          }
+        }
+      }
+    },
+    "IPjrG7" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "درست"
+          }
+        }
+      }
+    },
+    "jAQqBV" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "درست"
+          }
+        }
+      }
+    },
+    "Mmi4dP" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمایش نام شهر"
+          }
+        }
+      }
+    },
+    "Oq7xUB" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "پیکربندی ویجت پیش‌بینی"
+          }
+        }
+      }
+    },
+    "PTos3T" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوع ویجت"
+          }
+        }
+      }
+    },
+    "pvgdRJ" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غلط"
+          }
+        }
+      }
+    },
+    "Q9eIdt" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "پیکربندی ویجت صفحه قفل"
+          }
+        }
+      }
+    },
+    "RALqbO" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شهر"
+          }
+        }
+      }
+    },
+    "shVqhr" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "روزانه"
+          }
+        }
+      }
+    },
+    "so5PVF" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شهر ویجت"
+          }
+        }
+      }
+    },
+    "TuvdBO" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غلط"
+          }
+        }
+      }
+    },
+    "uajGW4-4KqOgS" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فقط می‌خواستم مطمئن بشم «هر دو» رو می‌خوای؟"
+          }
+        }
+      }
+    },
+    "uajGW4-shVqhr" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فقط می‌خواستم مطمئن بشم «روزانه» رو می‌خوای؟"
+          }
+        }
+      }
+    },
+    "uajGW4-vIjtP1" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فقط می‌خواستم مطمئن بشم «ساعتی» رو می‌خوای؟"
+          }
+        }
+      }
+    },
+    "umkB09" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شهر"
+          }
+        }
+      }
+    },
+    "uZdf8T" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غلط"
+          }
+        }
+      }
+    },
+    "V0q6cH" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمایش آدرس اگر موجود باشه"
+          }
+        }
+      }
+    },
+    "V8LOlW" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمایش زمان به‌روزرسانی"
+          }
+        }
+      }
+    },
+    "vIjtP1" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ساعتی"
+          }
+        }
+      }
+    },
+    "w3otO9" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "یکی از سبک‌های مورد علاقه تون رو انتخاب کنید."
+          }
+        }
+      }
+    },
+    "WDsSGe" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوع پیش‌بینی"
+          }
+        }
+      }
+    },
+    "XDzAwi" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمایش زمان به‌روزرسانی"
+          }
+        }
+      }
+    },
+    "Zrnk09" : {
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمایش آدرس اگر موجود باشه"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
