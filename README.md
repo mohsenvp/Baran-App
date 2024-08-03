@@ -1,2 +1,2 @@
-# Baran-App
+# Weatherly-App
 Its a weather app with SwiftUI
