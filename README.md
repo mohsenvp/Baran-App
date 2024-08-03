@@ -1,7 +1,8 @@
-# HeyWeather
+
+# Weatherly-App
 ## _Accurate local forecast_
 
-The HeyWeather App, a modern, simple, elegant, and accurate weather application with comprehensive features, is now also available on Apple Watch!
+The Weatherly App, a modern, simple, elegant, and accurate weather application with comprehensive features, is now also available on Apple Watch!
 This file contains developer guide in the following topics:
 
 - Localization
@@ -30,3 +31,5 @@ none of the key or table name can be variables and should be provided as StringL
 
 - Group, class and struct names are PascalCased
 - function and method names are camelCased
+- 
+
